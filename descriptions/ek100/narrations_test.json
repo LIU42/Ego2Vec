@@ -1,0 +1,6563 @@
+{
+    "take plate": [
+        "pick up dish and lid",
+        "take pasta plates",
+        "taking a dish",
+        "pick up saucer",
+        "pick a plate",
+        "pick up dish",
+        "take dish",
+        "take plates",
+        "grab a plate",
+        "pick up saucers",
+        "take the plate",
+        "pick up washing up",
+        "get plate",
+        "grab plates",
+        "pick up plate",
+        "take plate and other plate",
+        "take dishes",
+        "take plate",
+        "take dish with wraps",
+        "grab plate",
+        "pick up plates"
+    ],
+    "put plate": [
+        "place dish",
+        "put plate on counter",
+        "place dish on table",
+        "put down plates",
+        "put plate",
+        "put the plate on top of the table",
+        "put away plates",
+        "put plate onto plates",
+        "placing them on the dish",
+        "put dish and lid",
+        "put plate on kitchen counter",
+        "put plate down",
+        "put plates on the side",
+        "put down dish with wraps",
+        "place plate",
+        "put plate onto table",
+        "put croissant on plate",
+        "put them on the plate",
+        "put plates onto drying rack",
+        "put down plate",
+        "put down dish",
+        "put on plate",
+        "put the plate on the table on the round table",
+        "put dishes",
+        "put plate on drying rack",
+        "put it on plate",
+        "put plates on drying rack",
+        "put salad plate",
+        "put plate onto plate",
+        "place plate on table",
+        "place it on the plate",
+        "put aside plate",
+        "put the plate on the tabletop",
+        "put dish",
+        "place on plate",
+        "put plate on dish rack",
+        "put down down plate",
+        "place plates",
+        "put plate on table",
+        "put the plate on the pan",
+        "put washing up down",
+        "put down saucer",
+        "put dish with wraps in microwave oven"
+    ],
+    "take paper": [
+        "take can and paper",
+        "pick up paper",
+        "pick up piece of paper",
+        "take paper"
+    ],
+    "wash cloth": [
+        "rinse rag",
+        "wash the cloths",
+        "still wiping counter with rag",
+        "cleaning the washing cloth",
+        "wipe counter with rag",
+        "use cloth to clean oven",
+        "wash cloth",
+        "rinse cloth"
+    ],
+    "take cloth": [
+        "pick up cloth",
+        "take cloth",
+        "take table cloth",
+        "take the washing cloth",
+        "take the cloth",
+        "take tablecloth",
+        "take rag",
+        "pick up rag"
+    ],
+    "squeeze cloth": [
+        "squeeze cloth",
+        "squeeze clothe",
+        "wring cloth"
+    ],
+    "wash top": [
+        "continue wiping counter",
+        "clean cooking surface",
+        "clean counter",
+        "wash top",
+        "clean table",
+        "wipe counter",
+        "clean counter top",
+        "clean the table",
+        "wash sides surfaces",
+        "wipe table",
+        "clean desk",
+        "wipe surface",
+        "cleaning the table",
+        "wash table",
+        "clean",
+        "continue wiping surface",
+        "rinse top"
+    ],
+    "wash sink": [
+        "wipe sink with hand",
+        "wipe off sink",
+        "cleaning the sink",
+        "rinse sink",
+        "clean kitchen sink",
+        "wipe sink",
+        "wash sink",
+        "continue wiping sink",
+        "clean the sink",
+        "clean sink",
+        "rinse sink sieve"
+    ],
+    "take onion": [
+        "take onion",
+        "take the onions",
+        "pick up onion",
+        "take onion bits"
+    ],
+    "turn-on tap": [
+        "open water",
+        "turn water on",
+        "turning tap on",
+        "turn on the tap",
+        "turn on tap water",
+        "tap on",
+        "open tap",
+        "turn on tap",
+        "open the tap",
+        "turn tap on",
+        "turn the water on",
+        "turn tap water on",
+        "turn on water"
+    ],
+    "open bin": [
+        "open bin",
+        "open wastebasket",
+        "open waste basket",
+        "open trash bin",
+        "open rubbish bin",
+        "open trash can"
+    ],
+    "turn-off tap": [
+        "turn off tap",
+        "turn tap water off",
+        "switch of the tap water",
+        "turn off tap and put down spoon",
+        "turn off the tap",
+        "switch off the water tap",
+        "close tap",
+        "turn tap off",
+        "turn water off",
+        "close water",
+        "close tap.",
+        "turn off water"
+    ],
+    "wash oven": [
+        "clean cooker",
+        "wash cooker",
+        "continue wiping cooker",
+        "rinse cooker",
+        "clean the oven",
+        "rinse cookers",
+        "wash cookers",
+        "wipe cooker"
+    ],
+    "put cloth": [
+        "put down cloth",
+        "put cloth",
+        "put cloth on one side of the sink",
+        "place rag",
+        "put down table cloth",
+        "put down rag"
+    ],
+    "throw onion": [
+        "throw onion in"
+    ],
+    "close bin": [
+        "close trash bin",
+        "close bin",
+        "close waste basket",
+        "close rubbish bin",
+        "close trash can"
+    ],
+    "dry hand": [
+        "dry hand",
+        "dry hands",
+        "dry hands in towel",
+        "dry hands on towel",
+        "dry hands with towel"
+    ],
+    "hang cloth": [
+        "hang table cloth",
+        "hang cloth",
+        "drape cloth",
+        "hand cloth",
+        "hang up cloth"
+    ],
+    "throw paper": [
+        "throw paper into bin",
+        "throw paper",
+        "throw mail on the floor",
+        "throw away paper"
+    ],
+    "take hand": [
+        "take hand"
+    ],
+    "throw bin": [
+        "throw can into bin",
+        "throw something into bin",
+        "throw away"
+    ],
+    "take bin": [
+        "take bin",
+        "take bins"
+    ],
+    "put bin": [
+        "put bin onto other bin",
+        "put down bin",
+        "put down bins"
+    ],
+    "close bag": [
+        "close mozzarella bag",
+        "close bag of coffee",
+        "close cheese bag",
+        "close bread plastic bag",
+        "close bag",
+        "close bag of pasta",
+        "close plastic bag",
+        "close cereal bag",
+        "close coffee bag",
+        "close oregano bag",
+        "close toast bread bag",
+        "close salad bag",
+        "close breadcrumbs bag"
+    ],
+    "wrap bag": [
+        "seal the plastic bag with rubber",
+        "seal the plastic bag",
+        "tie bag",
+        "seal bag",
+        "roll up bag",
+        "wrap salad bag",
+        "seal plastic bag",
+        "seal rice bag"
+    ],
+    "remove bag": [
+        "remove bags",
+        "take out bag",
+        "remove bag of the bin",
+        "take out oatmeal bag"
+    ],
+    "remove bin": [
+        "take bin out"
+    ],
+    "insert bag": [
+        "put bag in fridge",
+        "put cereal bag into cereal box",
+        "put bag into bin",
+        "put bag in bin",
+        "put in bag on the low shelf",
+        "put inside the bag",
+        "put bag in to bin",
+        "put cheese bag in fridge"
+    ],
+    "take bag": [
+        "take carrot bag",
+        "take bag and box",
+        "take salad bag",
+        "take coffee bag",
+        "take cereal bag",
+        "take dressing from bag",
+        "grab oregano bag",
+        "take bag",
+        "pick up cheese bag",
+        "pick up bag of rice",
+        "pick up pine nuts bag",
+        "take garbage bag",
+        "take the bag",
+        "grab mozzarella bag",
+        "take bag with quorn",
+        "grab carrot bag",
+        "get plastic bag",
+        "pick up bag",
+        "take plastic bag",
+        "grab spaghetti bag"
+    ],
+    "open bag": [
+        "open oatmeal bag",
+        "continue opening bag",
+        "open cheese bag",
+        "open coffee bag",
+        "open toast bread bag",
+        "open bag of coffee",
+        "open mozzarella bag",
+        "open pasta bag",
+        "open carrot bag",
+        "open the plastic bag",
+        "open cheese bag with scissors",
+        "open salad bag",
+        "open bag",
+        "opening grapes bag"
+    ],
+    "take tray": [
+        "take baking tray",
+        "pick up oven tray",
+        "pick up tray",
+        "grab baking tray",
+        "take tray.",
+        "take tray",
+        "get tray",
+        "grab tray",
+        "take baking pan",
+        "pick up baking tray",
+        "pick another tray",
+        "pick up baking pan",
+        "take trays",
+        "pick up baking tin base"
+    ],
+    "take lid": [
+        "take saucepan lid",
+        "pick up pot lid",
+        "pick up lid of slow cooker",
+        "take lid from cupboard",
+        "pick up pot lids",
+        "take lid",
+        "get lid",
+        "pick up pan lid",
+        "pick up lid",
+        "grab lid",
+        "take lid of pot"
+    ],
+    "close container": [
+        "close tomato container",
+        "close cheese container",
+        "close container",
+        "close pasta container"
+    ],
+    "take container": [
+        "take container",
+        "take container from cupboard",
+        "pick up container",
+        "take container and plate",
+        "take containers",
+        "take milk container"
+    ],
+    "open fridge": [
+        "open refrigerator",
+        "opening fridge",
+        "open the fridge",
+        "open the refrigerator",
+        "open fridge.",
+        "open fridge",
+        "opening the fridge"
+    ],
+    "insert fridge": [
+        "move stuff in fridge",
+        "put it back into the refrigerator",
+        "put them back into the refrigerator",
+        "move things in the fridge",
+        "put inside the fridge",
+        "put can in fridge"
+    ],
+    "insert container": [
+        "put milk container in refrigerator",
+        "insert container",
+        "put containers in refrigerator",
+        "put container into fridge"
+    ],
+    "insert plate": [
+        "put plate in drying rack",
+        "put plate into track",
+        "put plates in sink",
+        "put plate in microwave oven",
+        "put plates in cupboard",
+        "put plate into microwave",
+        "put plate in sink",
+        "put plate into cupboard",
+        "put plate into fridge",
+        "put plates into cupboard",
+        "put plate in cupboard"
+    ],
+    "close fridge": [
+        "close refrigerator",
+        "close fridge",
+        "close the fridge",
+        "close the refrigerator",
+        "close fridge door",
+        "closing the fridge"
+    ],
+    "take spatula": [
+        "take spatula and close drawer",
+        "take spatula.",
+        "take wooden spatula",
+        "pick up spatula",
+        "take spatula",
+        "get spatula"
+    ],
+    "put tray": [
+        "put baking tray",
+        "put down baking tray",
+        "put tray",
+        "return tray",
+        "put down trays",
+        "put down oven tray",
+        "place tray on stove",
+        "put down baking pan",
+        "put baking tray on scales",
+        "put tray on stove",
+        "put away tray",
+        "put down tray",
+        "put tray on side",
+        "put baking tray down"
+    ],
+    "put spatula": [
+        "put away spatula",
+        "put down spatula and pizza cutter",
+        "put down spatulas",
+        "put spatula onto sink",
+        "put down spatula.",
+        "put down spatula and spoon",
+        "place wooden spatula on refrigerator",
+        "put down spatula"
+    ],
+    "take pizza": [
+        "take pizza slice",
+        "take pizza"
+    ],
+    "fold cloth": [
+        "fold tablecloth",
+        "fold table cloth"
+    ],
+    "insert cloth": [
+        "put table cloth into drawer",
+        "put tablecloth into cupboard"
+    ],
+    "open container": [
+        "open pasta container",
+        "open container",
+        "open tomato container"
+    ],
+    "insert pizza": [
+        "put pizza slice into container"
+    ],
+    "put pizza": [
+        "put pizza slice onto plate",
+        "put pizza onto plate"
+    ],
+    "take knife": [
+        "take and wash knives",
+        "pick up blade",
+        "take knife and fork and put into drawer",
+        "take spreading knife",
+        "grab knife",
+        "pick up knives",
+        "taking a knife",
+        "get a knife",
+        "pick up knife",
+        "take knife and spoon",
+        "take knife and piece of pepper",
+        "take the knife",
+        "take knives forks and spoon and cup",
+        "take knife",
+        "take knife and fork out of drawer",
+        "take knife and fork",
+        "get knife"
+    ],
+    "put knife": [
+        "put knife and spoon in drawer",
+        "put down down slice",
+        "place knife",
+        "leaving the knife",
+        "put away knife",
+        "put knife back on the shelf",
+        "put down down knife",
+        "put knife",
+        "put knife away",
+        "put down knives",
+        "put down knife",
+        "put knife on dish rack",
+        "put knife and fork on dish rack",
+        "put knife down"
+    ],
+    "cut pizza": [
+        "cut pizza"
+    ],
+    "put lid": [
+        "put lid on pan",
+        "put lid on pots",
+        "put lid on salt",
+        "put lid on the pan",
+        "put lid on milk bottle",
+        "put down lid",
+        "put lid",
+        "put lid on dish rack",
+        "put pan lid on pan",
+        "put down pan lid",
+        "put lid on slow cooker",
+        "put lid on counter",
+        "put lid on oregano tupperware",
+        "put lid of salt back on salt",
+        "put lid on tupperware",
+        "put lid on pot",
+        "put lid on rice cooker",
+        "put saucepan lid",
+        "put lid on coffee pot",
+        "put lid on bottle",
+        "place lid on pan",
+        "put lid on saucepan",
+        "put on lid",
+        "put lid on stove",
+        "place lid on",
+        "put lid of pepper on pepper",
+        "place pan lid down",
+        "put lid on box",
+        "put pot lid on pot",
+        "placing lid",
+        "put down lids",
+        "put pot lid on dish rack",
+        "place lid on container lid",
+        "place lid back",
+        "put lid back on slow cooker",
+        "place lid",
+        "put lid down",
+        "put lid on milk",
+        "put kettle lid on",
+        "put lid on sink"
+    ],
+    "wash hand": [
+        "wash",
+        "wash hand",
+        "rinse hands",
+        "clean the hands",
+        "clean hand with cloth",
+        "wash hands",
+        "wipe hands",
+        "clean hands",
+        "wipe of hands",
+        "wipe off hands",
+        "rinse hand"
+    ],
+    "take sponge": [
+        "get sponge",
+        "pick up sponge",
+        "take sponge"
+    ],
+    "squeeze sponge": [
+        "squeeze sponge"
+    ],
+    "take washing liquid": [
+        "take alcohol",
+        "take cleansing",
+        "pick up detergent",
+        "pick up washing up liquid",
+        "take washing up liquid",
+        "pick up degreaser",
+        "pick up soap",
+        "get detergent",
+        "take cleanser",
+        "take soap",
+        "take washing up liquid.",
+        "get soap on hands"
+    ],
+    "put washing liquid": [
+        "put down washing up liquid",
+        "put dish soap on sponge",
+        "put more soap on sponge",
+        "put soap on hands",
+        "put on soap",
+        "put down detergent",
+        "put on detergent",
+        "place alcohol",
+        "put soap",
+        "put washing up liquid in washing up bowl",
+        "put the soap on hand and on sponge",
+        "put down degreaser",
+        "put down cleanser",
+        "put down alcohol",
+        "put soap on sponge",
+        "put down soap",
+        "put detergent on hands",
+        "put down washing up liquid.",
+        "put soap on hand",
+        "put soap down"
+    ],
+    "wash knife": [
+        "wipe off knife",
+        "wipe knife with rag",
+        "wash knife.",
+        "rinse",
+        "wipe knife",
+        "wash the knife",
+        "lather knife",
+        "rinse knives",
+        "wash knife",
+        "clean knife",
+        "rinse knife",
+        "cleaning the knife",
+        "rinse knife and fork",
+        "rinse knife."
+    ],
+    "take fork": [
+        "take fork from drawer",
+        "take fork",
+        "take fork and knife",
+        "get fork",
+        "take and wash forks",
+        "take fork and spoon",
+        "grab fork",
+        "pick up forks",
+        "pick up fork",
+        "taking a fork into the table",
+        "take fork.",
+        "get forks"
+    ],
+    "wash fork": [
+        "rinse and put down forks",
+        "rinse fork",
+        "clean the fork",
+        "wash fork.",
+        "rinse fork.",
+        "still washing fork",
+        "wash fork",
+        "wipe fork with rag",
+        "wash fork and spoon",
+        "lather fork",
+        "rinse fork and spoon"
+    ],
+    "put fork": [
+        "put fork down",
+        "put down fork",
+        "put fork on plate",
+        "put fork and knife on dish rack",
+        "put fork and spoon in drying rack",
+        "put fork",
+        "place fork and knife",
+        "put down fork in bowl",
+        "put fork on lunch box",
+        "put away fork",
+        "put fork on dish rack",
+        "place fork"
+    ],
+    "take pizza cutter": [
+        "take pizza cutter",
+        "take pizza cutter."
+    ],
+    "wash pizza cutter": [
+        "wash pizza cutter",
+        "rinse pizza cutter",
+        "rinse pizza cutter."
+    ],
+    "put pizza cutter": [
+        "put down pizza cutter"
+    ],
+    "wash plate": [
+        "keep washing dishes",
+        "wash the plate",
+        "rinse saucer",
+        "wipe plate",
+        "lather dish",
+        "continue washing pate",
+        "rinse dish",
+        "continue washing plate",
+        "wash plate again",
+        "wash plate",
+        "wash dish",
+        "lather saucer",
+        "washing the plate",
+        "lather plate",
+        "rinse plate"
+    ],
+    "wash spatula": [
+        "rinse spatula and spoon",
+        "wipe spatula with rag",
+        "rinse spatula.",
+        "rinse spatula",
+        "wash spatula",
+        "continue washing spatula",
+        "still wiping spatula with rag"
+    ],
+    "wash tray": [
+        "rinse cake container base",
+        "rinse tray.",
+        "rinse baking pan",
+        "wash baking tin base",
+        "wash cake mould",
+        "wash tray",
+        "wash baking pan"
+    ],
+    "put sponge": [
+        "put down sponges",
+        "put sponge down",
+        "put sponges on drying rack",
+        "put down sponge",
+        "place sponge back",
+        "place sponge",
+        "put on sponge"
+    ],
+    "take glass": [
+        "pick up glasses",
+        "pick up glass of wine",
+        "taking some glasses",
+        "take glass.",
+        "taking a glass",
+        "taking the glass with fruit",
+        "pick up wine glass",
+        "take another glass.",
+        "take glasses",
+        "grab glass",
+        "get glass",
+        "pick up glass",
+        "take glass"
+    ],
+    "wash glass": [
+        "wash wine glass",
+        "lather glass",
+        "rinse wine glass",
+        "continue wiping glass",
+        "wipe glass",
+        "rinse glass",
+        "rinse glasses",
+        "wash glass"
+    ],
+    "insert glass": [
+        "placing them in the glass",
+        "put glass into rack"
+    ],
+    "insert spatula": [
+        "put spatula in dishwasher",
+        "put spatula into rack."
+    ],
+    "insert knife": [
+        "put knife in peanut butter",
+        "put knife into the shelf",
+        "put knife in dishwasher",
+        "put the knife back into the shelf",
+        "put blade in cupboard",
+        "put knives in drawer",
+        "put knife in sink",
+        "put knife into rack.",
+        "put knife in drawer"
+    ],
+    "insert pizza cutter": [
+        "put pizza cutter into rack."
+    ],
+    "fold paper": [
+        "fold paper"
+    ],
+    "insert tray": [
+        "put tray into rack.",
+        "put baking tray into oven",
+        "put tray back in oven",
+        "put baking tray in dishwasher",
+        "put tray into rack",
+        "put oven tray in oven",
+        "put tray in oven",
+        "put trays into cupboard",
+        "put baking tray in cupboard",
+        "put tray into oven"
+    ],
+    "wash sponge": [
+        "rinse sponge",
+        "wash sponge",
+        "clean sponge"
+    ],
+    "take cutlery": [
+        "pick up cutlery",
+        "take cutlery",
+        "pick up silverware",
+        "grab cutlery"
+    ],
+    "open drawer": [
+        "open drawer.",
+        "open refrigerator drawer",
+        "open other drawer",
+        "open drawer",
+        "open freezer drawer"
+    ],
+    "close drawer": [
+        "close freezer drawer",
+        "close drawer",
+        "close refrigerator drawer"
+    ],
+    "take chopping board": [
+        "pick up chopping board",
+        "get some space on the cutting board",
+        "get the cutting board",
+        "take chopping board and move spatula",
+        "pick up chopping block",
+        "get chopping board and knife",
+        "pick up cutting board",
+        "take cutting board",
+        "get chopping board",
+        "take chopping board"
+    ],
+    "open cupboard": [
+        "open door and put down water bottle",
+        "open closet",
+        "open door",
+        "open cupboard",
+        "open flap",
+        "open the door",
+        "open cupboards",
+        "open cabinet",
+        "open locker",
+        "open the cabinet"
+    ],
+    "put chopping board": [
+        "put down cutting board",
+        "put the cutting board back",
+        "place chopping board on top",
+        "put away chopping block",
+        "put cutting board into cupboard",
+        "put chopping board to dry",
+        "put the cut board",
+        "place chopping board",
+        "put down board",
+        "put down chopping block",
+        "put chopping board away",
+        "put",
+        "put chopping board",
+        "put chopping board down",
+        "put cutting board",
+        "place chopping board over sink",
+        "put the board on the table",
+        "put chopping board on counter",
+        "place chopping board on counter",
+        "put down chopping board"
+    ],
+    "take pan": [
+        "pick up wok",
+        "pick up frying pan",
+        "pick up pan",
+        "take pan and spatulas",
+        "take saucepan",
+        "take pan",
+        "pick up slow cooker pan",
+        "get pan",
+        "grab saucepan",
+        "take the pan",
+        "take small saucepan",
+        "get frying pan"
+    ],
+    "insert pan": [
+        "put pan into sink",
+        "put them into pan",
+        "put muffin in the pan",
+        "put pan in the sink",
+        "put it into the oil pan",
+        "put into the pan",
+        "put the pan into the stove",
+        "put saucepan in drying rack",
+        "move pan in stove",
+        "put pan in cooker",
+        "put in saucepan",
+        "move frittata around in the pan",
+        "put pan in cupboard",
+        "put pan into cupboard",
+        "put in pan",
+        "put pan in slow cooker"
+    ],
+    "take bowl": [
+        "get bowl of dough from bowl",
+        "pick up bowl",
+        "take salad bowl",
+        "grab salad bowl",
+        "get a bowl of dough",
+        "take bowls",
+        "take bowl",
+        "pick up slow cooker bowl",
+        "pick up cereal bowl",
+        "grab a glass bowl",
+        "take the bowl",
+        "pick up bowls",
+        "pick up salad bowl",
+        "get another bowl",
+        "get salad bowl",
+        "get bowl",
+        "get bowl of dough"
+    ],
+    "insert bowl": [
+        "put a bowl in to microwave",
+        "put it into the glass bowl",
+        "put bowl in washing up bowl",
+        "put bowl in cupboard",
+        "put bowl in microwave",
+        "put bowl in drying rack",
+        "put bowls into cupboard",
+        "put bowls in cupboard",
+        "put them inside the glass bowl",
+        "put bowl in sink",
+        "put bowl in washing up rack",
+        "put the bowl inside the rack",
+        "put bowl in saucepan",
+        "put bowl into cupboard",
+        "place bowl in sink",
+        "put bowl in dishwasher"
+    ],
+    "remove cupboard": [
+        "take out"
+    ],
+    "close cupboard": [
+        "close cupboard",
+        "close door",
+        "close cabinet",
+        "close cupboard door",
+        "close the door of the refrigerator",
+        "close cupboards"
+    ],
+    "pull cup": [
+        "pull down cup"
+    ],
+    "take cup": [
+        "get the mug",
+        "take mug in glass",
+        "take cup and spoon",
+        "pick up coffee cup",
+        "take cup and knife",
+        "grab cup",
+        "take measuring cups and glass",
+        "take cup",
+        "take mug in jug",
+        "take measuring cup",
+        "take mug",
+        "pick up cups",
+        "get mug",
+        "pick up mug",
+        "pick up cup",
+        "take mugs"
+    ],
+    "insert cup": [
+        "place cup in drawer",
+        "put cup in drawer",
+        "insert cup",
+        "put mug in drying rack",
+        "put mug in glass",
+        "put mug in cupboard",
+        "put cup into cupboard",
+        "put mug in microwave",
+        "put mug in jug",
+        "put cup in sink",
+        "put cup in cupboard",
+        "put mug into washing up bowl"
+    ],
+    "put cup": [
+        "put mugs",
+        "put down coffee cup",
+        "put mug on counter",
+        "put down cup and spoon",
+        "put cup onto tablecloth",
+        "place mug on counter",
+        "put down cup",
+        "put mug",
+        "put mug down",
+        "put mug on drying rack",
+        "put measuring cup on counter",
+        "put away mug",
+        "put mug on side",
+        "put cup down",
+        "put down cups",
+        "place coffee cup",
+        "put cups",
+        "put down mug on side",
+        "put coffee cup",
+        "put cup on dish rack",
+        "put cup on counter",
+        "put down down cup",
+        "put cup",
+        "put away cup",
+        "place mug",
+        "put measuring cup into cupboard"
+    ],
+    "take rolling pin": [
+        "take rolling bin"
+    ],
+    "insert rolling pin": [
+        "put rolling pin into drawer"
+    ],
+    "put spoon": [
+        "put down teaspoon",
+        "put down spoon and knife",
+        "place spoon",
+        "put spoon",
+        "place teaspoon fork knife",
+        "put spoon on plate",
+        "put scoop",
+        "place wooden spoon on refrigerator",
+        "put spoons",
+        "place wooden spoon",
+        "put wooden spoon",
+        "put spoon down",
+        "put down spoon",
+        "put spoon on surface",
+        "put spoon on the drying rack",
+        "put down scoop",
+        "put away spoon",
+        "put teaspoons",
+        "place spoon back",
+        "place spoon in sink",
+        "put down wooden spoon",
+        "placing spoon",
+        "put wooden spoon down",
+        "put down spoons",
+        "put down teaspoons"
+    ],
+    "unroll cloth": [
+        "unfold tablecloth"
+    ],
+    "pull cloth": [
+        "pull down tablecloth"
+    ],
+    "take spoon": [
+        "pick up teaspoon",
+        "pick up teaspoon of honey",
+        "pick up rice paddle",
+        "taking a spoon",
+        "and get spade",
+        "grab wooden spoon",
+        "get spoon",
+        "take spoon",
+        "grab spoon",
+        "remove it on on the spoon with the cloth",
+        "take teaspoon",
+        "take wooden spoon",
+        "pick up spoon",
+        "pick up wooden spoon",
+        "take the spoon",
+        "take scoop",
+        "pick up scoop",
+        "get wooden spoon",
+        "take spoon from pot",
+        "take spoon from drawer"
+    ],
+    "take milk": [
+        "take milk",
+        "taking milk back into the fridge",
+        "grab milk",
+        "get milk",
+        "take soy milk",
+        "pick up milk"
+    ],
+    "put container": [
+        "save container",
+        "put away containers",
+        "put down container and sponge",
+        "put container down",
+        "put down container",
+        "place milk container on table"
+    ],
+    "shake milk": [
+        "shake soy milk"
+    ],
+    "open milk": [
+        "opening milk",
+        "open milk"
+    ],
+    "pour milk": [
+        "pour milk in mug",
+        "pouring milk into one glass",
+        "pour milk into bowl",
+        "pour milk in dish",
+        "pour soy milk",
+        "still pouring milk",
+        "pour milk into plate",
+        "pour milk in bowl",
+        "pour coconut milk into pan",
+        "pour milk into bowl with cereals",
+        "pour milk into cup",
+        "pour milk"
+    ],
+    "close milk": [
+        "closing the milk",
+        "close milk"
+    ],
+    "put milk": [
+        "place milk",
+        "put down soya milk",
+        "put milk down",
+        "put away milk"
+    ],
+    "take cereal": [
+        "pick up cereal",
+        "take cereals",
+        "take cereal",
+        "pick up shreddies"
+    ],
+    "put cereal": [
+        "put down cereals",
+        "place cereal",
+        "put away cereal",
+        "put down cereal",
+        "put cereal on plate"
+    ],
+    "open box": [
+        "open eggs box",
+        "open box of food",
+        "open tub",
+        "open box",
+        "open cereal box",
+        "open lunch box",
+        "open tupperware",
+        "open box of carrots"
+    ],
+    "unroll bag": [
+        "unfold cereal bag",
+        "unroll bag"
+    ],
+    "pour cereal": [
+        "pour cereals",
+        "pour cereal into plate",
+        "pour cereal into bowl",
+        "pour cereal in bowl",
+        "pour cereals into bowl",
+        "pour cereal"
+    ],
+    "put tongs": [
+        "put down tong"
+    ],
+    "fold bag": [
+        "fold mozzarella bag",
+        "fold cereal bag"
+    ],
+    "pour liquid": [
+        "pour washing op liquid",
+        "pour liquid into glass"
+    ],
+    "wash cup": [
+        "wash cup and spoon",
+        "rinse cup",
+        "wash cup",
+        "clean mug",
+        "rinse mug",
+        "rinse coffee cup",
+        "continue rinsing mug",
+        "rinse",
+        "wipe mug",
+        "wash coffee cup",
+        "wash mug",
+        "continuing washing mug",
+        "still rising cup",
+        "continue washing mug",
+        "lather coffee cup"
+    ],
+    "wash spoon": [
+        "wash spoon",
+        "lather spoon",
+        "rinse wooden spoon",
+        "wash spoons",
+        "wash teaspoon",
+        "rinse spoons",
+        "rinse spoon and teaspoon",
+        "rinse teaspoon",
+        "continue washing spoons",
+        "lather teaspoon",
+        "rinse spoon",
+        "clean spoon",
+        "lather scoop",
+        "rinse spoon and knife",
+        "rinse teaspoons",
+        "wash wooden spoon",
+        "rinse scoop",
+        "continue washing spoon",
+        "wash the food spade with tap water"
+    ],
+    "put glass": [
+        "put away glass",
+        "put glass on drying rack",
+        "put down glass",
+        "put glasses on desk.",
+        "put glasses on table",
+        "put away wine glass",
+        "put glass back on table",
+        "put down glasses",
+        "put wine glass on side",
+        "put wine glass onto side",
+        "put down wine glass",
+        "put glass on side",
+        "put down wine glasses",
+        "put glasses on the side",
+        "put glass down",
+        "put glass"
+    ],
+    "take bottle": [
+        "take water bottle",
+        "grab oil bottle",
+        "get a bottle from the refrigerator",
+        "grab a bottle of bean curd",
+        "take oil bottle",
+        "pick up milk bottle",
+        "take wine bottle",
+        "pick up olive oil bottle",
+        "pick up bottle",
+        "pick up bottle of wine",
+        "take bottle",
+        "pick up oil bottle"
+    ],
+    "pour water": [
+        "pour hot water",
+        "pour water into the pan",
+        "pour water into cup",
+        "tip water into slow cooker",
+        "pour the water into sink",
+        "pour water into kettle",
+        "pour water in pot",
+        "pour water into cafetiere",
+        "pour water into glass",
+        "pour water over chopping board",
+        "pour water into slow cooker",
+        "pour water into v60",
+        "pour water into bowl",
+        "pour water into dish",
+        "pour water over sponge",
+        "pour water into coffee machine",
+        "pour water on plate",
+        "pour water into the cup",
+        "pour the water into the sink",
+        "pour water in coffee machine",
+        "pour in the water",
+        "pour water in the sauce",
+        "pour water into the saucepan",
+        "pour water into pot",
+        "pour water",
+        "pour water from kettle into pan",
+        "continue pouring water into v60",
+        "pour the water",
+        "pour water into oatmeal bowl",
+        "pour water into pan",
+        "pour water into saucepan",
+        "pour water in cup",
+        "pour water in mug",
+        "pour out water from pan",
+        "pour water in coffee pot",
+        "pour water of pot in sink",
+        "pour some water into the pot"
+    ],
+    "drink water": [
+        "drink water from glass",
+        "drink water"
+    ],
+    "close box": [
+        "close tupperware",
+        "close cereal box",
+        "close cheese box",
+        "close box",
+        "close lunch box",
+        "close tupperware of oregano"
+    ],
+    "insert box": [
+        "place in tupperware",
+        "put lunch box in bag",
+        "put in lunch box",
+        "put tupperware in fridge",
+        "put food box into fridge",
+        "put tupperware in oven",
+        "put tupperware in dishwasher",
+        "put cereal box into cupboard",
+        "put tupperware into freezer",
+        "put in tupperware"
+    ],
+    "take kettle": [
+        "grab kettle",
+        "get kettle",
+        "take kettle",
+        "pick up kettle",
+        "take water boiler"
+    ],
+    "open kettle": [
+        "open kettle"
+    ],
+    "close kettle": [
+        "close kettle"
+    ],
+    "put kettle": [
+        "put kettle on to boil",
+        "put kettle down",
+        "put kettle on base",
+        "place kettle back",
+        "place kettle on base",
+        "put kettle on power base",
+        "put water boiler on stove top",
+        "put kettle",
+        "put on boiler",
+        "put boiler back on stove top",
+        "place kettle",
+        "put down kettle",
+        "put kettle back"
+    ],
+    "turn-on kettle": [
+        "turn on kettle",
+        "turn kettle on",
+        "start kettle"
+    ],
+    "take colander": [
+        "get colander",
+        "take colander",
+        "take colander from sink",
+        "take colander.",
+        "pick up colander",
+        "pick up colander with spaghetti"
+    ],
+    "move bin": [
+        "move bin",
+        "move bins"
+    ],
+    "put colander": [
+        "place colander",
+        "put colander",
+        "put colander away",
+        "put colander down",
+        "put colander on pot",
+        "put down colander",
+        "put colander on drying rack"
+    ],
+    "insert lid": [
+        "put lid in sink",
+        "put lid in dishrag",
+        "put lid and bottle into bins",
+        "put lid into cupboard"
+    ],
+    "put pan": [
+        "place pan on counter top",
+        "put down frying pan",
+        "put pan on hob",
+        "place pan on",
+        "place saucepan",
+        "put down pan.",
+        "put pan on stove top",
+        "put pan on cooker",
+        "put away pan",
+        "place lid back on pan",
+        "put pan back",
+        "put pan",
+        "put croissant on pan",
+        "place pan",
+        "put down pan and spatulas",
+        "put saucepan on side",
+        "put down pan",
+        "put small saucepan on hob",
+        "put saucepan",
+        "put down wok",
+        "put pan back on counter",
+        "put oil pan",
+        "put pan on",
+        "put pan on stove",
+        "put saucepan on hob",
+        "put pan on the stove",
+        "place pan on sink",
+        "put down saucepan",
+        "put pan on drying rack",
+        "place pan on hob",
+        "put saucepan onto hob"
+    ],
+    "pour aubergine": [
+        "pour aubergine into pan"
+    ],
+    "lift bin": [
+        "lift bin"
+    ],
+    "mix aubergine": [
+        "stir aubergine"
+    ],
+    "put aubergine": [
+        "put down aubergine"
+    ],
+    "take salt": [
+        "take salt",
+        "get salt",
+        "grab salt",
+        "pick up salt",
+        "take the salt"
+    ],
+    "pour salt": [
+        "pour salt into hands",
+        "pour salt in pan",
+        "pour salt"
+    ],
+    "open salt": [
+        "open salt"
+    ],
+    "close salt": [
+        "close salt"
+    ],
+    "put salt": [
+        "place salt",
+        "put down salt",
+        "put salt on counter",
+        "put salt",
+        "put salt on meat",
+        "put on salt"
+    ],
+    "put onion": [
+        "put down onion",
+        "put onion cutting board"
+    ],
+    "cut onion": [
+        "cut the onion",
+        "continue chopping onion",
+        "chop onion",
+        "cut the onions into small pieces",
+        "cut the onion into small pieces",
+        "cut the onion outer layer",
+        "slice onion",
+        "cut onion",
+        "continue slicing onion"
+    ],
+    "insert onion": [
+        "put the onion and ginger into the plastic bag",
+        "put onion in the frying pan",
+        "put onion in pan",
+        "put onion into container",
+        "put the onions into the pan",
+        "put onion into potatoes",
+        "put onion in the pan"
+    ],
+    "mix spatula": [
+        "stir"
+    ],
+    "open bottle": [
+        "open olive oil bottle",
+        "open bottle of wine",
+        "open bottle",
+        "open milk bottle",
+        "open oil bottle"
+    ],
+    "take bottle opener": [
+        "take corkscrew"
+    ],
+    "take cork": [
+        "take cork"
+    ],
+    "put bottle opener": [
+        "put down bottle opener"
+    ],
+    "put bottle": [
+        "return bottle",
+        "put bottle of oil",
+        "put olive oil bottle",
+        "place bottle",
+        "put oil bottle",
+        "place oil bottle on refrigerator",
+        "put oil bottle down",
+        "put bottle",
+        "put down bottle"
+    ],
+    "adjust hob": [
+        "adjust flame",
+        "adjust flame intensity",
+        "adjust flame cooker",
+        "adjust hob"
+    ],
+    "crush milk": [
+        "crush soy milk"
+    ],
+    "pour onion": [
+        "pour onion into pan"
+    ],
+    "insert milk": [
+        "put milk in bowl",
+        "put soy milk into bin",
+        "put milk in fridge"
+    ],
+    "mix food": [
+        "stir food on stove",
+        "stir food",
+        "mix food",
+        "mix food in pan",
+        "continue stirring food",
+        "continue mixing food",
+        "mix content of the mug",
+        "still mix food in pan",
+        "stir",
+        "stir the food in the pot with chopsticks",
+        "mix the ingredients"
+    ],
+    "mix salt": [
+        "stir salt",
+        "stir"
+    ],
+    "move bottle": [
+        "move bottle",
+        "move bottle of olive oil"
+    ],
+    "move glass": [
+        "move glasses",
+        "move glass"
+    ],
+    "crush can": [
+        "crush can"
+    ],
+    "move plate": [
+        "move dishes",
+        "move dish and chopping board",
+        "move plate",
+        "move plates",
+        "move saucer",
+        "move dish"
+    ],
+    "move container": [
+        "move container"
+    ],
+    "insert bin": [
+        "put can into bin",
+        "put in bin",
+        "put it into dustbin",
+        "put into the dustbin",
+        "put them into the dustbin"
+    ],
+    "put cutlery": [
+        "put away cutlery",
+        "put down cutlery",
+        "put down silverware",
+        "put cutlery"
+    ],
+    "move chair": [
+        "move chair"
+    ],
+    "rip paper": [
+        "tear off paper",
+        "tear paper"
+    ],
+    "take sauce": [
+        "taking the sauce",
+        "grab sauce",
+        "grab tabasco",
+        "take tomato sauce",
+        "pick up tahini",
+        "pick up soy sauce",
+        "get soy sauce",
+        "pick up sauce",
+        "take sauce"
+    ],
+    "open sauce": [
+        "open tahini",
+        "try to open sauce",
+        "opening the sauce",
+        "open tabasco",
+        "open sauce"
+    ],
+    "pour sauce": [
+        "pour sauce on pasta",
+        "pour on soy sauce",
+        "pouring sauce into tortillas.",
+        "pour pesto",
+        "pour sauce",
+        "continue pouring sauce",
+        "pour sauce over salad",
+        "pour soy sauce",
+        "pour sauce on chicken",
+        "pour tahini on meat",
+        "pour tabasco"
+    ],
+    "put sauce": [
+        "put tabasco on the side",
+        "put tahini on meat",
+        "put back soy sauce",
+        "put soy sauce on food",
+        "put tahini away",
+        "put away soy sauce",
+        "put down soy sauce",
+        "put down sauce",
+        "put sauce onto plate"
+    ],
+    "take pasta": [
+        "grab spaghetti",
+        "pick up pasta",
+        "pick up spaghetti",
+        "take pasta"
+    ],
+    "insert paper": [
+        "put paper into bin"
+    ],
+    "take scissors": [
+        "take scissor",
+        "pick up scissors",
+        "grab scissors",
+        "take scissors",
+        "get scissors"
+    ],
+    "cut bag": [
+        "cut pasta bag",
+        "cut mozzarella bag",
+        "cut plastic bag",
+        "cut open rice bag"
+    ],
+    "insert scissors": [
+        "place scissors in drawer",
+        "put scissors in drawer",
+        "put scissor into drawer",
+        "put scissors back in drawer"
+    ],
+    "remove pasta": [
+        "remove pasta",
+        "remove piece of pasta from saucepan",
+        "take out pasta",
+        "remove pasta.",
+        "take pasta out of the bag"
+    ],
+    "pour pasta": [
+        "pour pasta from colander into saucepan",
+        "pour pasta onto plate",
+        "pour pasta into bowl",
+        "pour pasta",
+        "pour pasta onto place",
+        "pour pasta in container",
+        "pour some pasta in tupperware",
+        "pour pasta on bowl",
+        "pour pasta into pan",
+        "pour pasta into colander",
+        "pour pasta in pot"
+    ],
+    "throw bag": [
+        "throw mozzarella bag",
+        "throw away plastic bag",
+        "throw away spaghetti bag",
+        "throw away bag",
+        "throw bag",
+        "throw out oatmeal bag",
+        "throw plastic bag into bin",
+        "throw plastic bag"
+    ],
+    "mix pasta": [
+        "mix spaghetti",
+        "stir pasta",
+        "stir spaghetti",
+        "continue stirring pasta",
+        "mix pasta"
+    ],
+    "move box": [
+        "move things",
+        "move lunch box",
+        "move box content",
+        "move tupperware"
+    ],
+    "wash bottle": [
+        "rinse bottle"
+    ],
+    "wash sauce": [
+        "wipe sauce with tissue",
+        "wipe down soy sauce",
+        "rinse sauce"
+    ],
+    "pour wine": [
+        "pour wine into glass",
+        "pour wine"
+    ],
+    "eat pasta": [
+        "taste pasta"
+    ],
+    "check alarm": [
+        "check time",
+        "check timer"
+    ],
+    "insert spoon": [
+        "put spoon into drawer",
+        "put spoons in washing up bowl",
+        "put spoon in coffee",
+        "put spoon in coffee cup",
+        "put spoon of sugar in cup",
+        "put spoon in cereal",
+        "put spoon in drawer",
+        "put spoon in bowl",
+        "put spoon in drying rack",
+        "put spoons into washing up bowl",
+        "put spoons in drying rack",
+        "put spoon in colander",
+        "put spoon in sink",
+        "put spoon of tea in cup",
+        "insert spoon",
+        "put spoon back in drawer"
+    ],
+    "turn-off hob": [
+        "switch off the gas",
+        "turn off stove",
+        "turn off stove top",
+        "turn off gas",
+        "turn off hob"
+    ],
+    "lift pan": [
+        "lift saucepan"
+    ],
+    "insert colander": [
+        "put colander in washing up bowl",
+        "put colander in sink",
+        "put colander in cupboard",
+        "put colander into sink"
+    ],
+    "filter pasta": [
+        "continue draining pasta",
+        "strain spaghetti",
+        "drain pasta"
+    ],
+    "take cheese": [
+        "get cheese",
+        "take cheese",
+        "grab mozzarella",
+        "take one slice of cheese",
+        "get cheese on knife",
+        "pick up cheese",
+        "take parmesan",
+        "pick up parmesan cheese",
+        "take mozzarella",
+        "take two slices"
+    ],
+    "sprinkle cheese": [
+        "sprinkle mozzarella"
+    ],
+    "throw pasta": [
+        "throw pasta into bin"
+    ],
+    "take mushroom": [
+        "take mushrooms",
+        "take mushroom",
+        "pick up mushrooms"
+    ],
+    "take clip": [
+        "pick up clip",
+        "take clip"
+    ],
+    "put clip": [
+        "put clip on bag of pasta",
+        "put clip on bag"
+    ],
+    "insert cheese": [
+        "put cheese in refrigerator",
+        "place cheese inside chicken",
+        "put cheese in the eggs",
+        "insert cheese into chicken",
+        "put cream cheese in place",
+        "put mozzarella into fridge",
+        "put cheese inside chicken"
+    ],
+    "put mushroom": [
+        "put down mushrooms",
+        "put down mushrooms and container",
+        "put",
+        "put down mushroom"
+    ],
+    "search drawer": [
+        "looking for something"
+    ],
+    "put bowl": [
+        "place sugar bowl on table",
+        "place bowl",
+        "put down slices",
+        "put down slow cooker bowl",
+        "place bowl on table",
+        "put salad bowl down",
+        "put bowl on counter",
+        "put bowl on drying rack",
+        "put bowls",
+        "put washing up bowl",
+        "put washing up bowl in sink",
+        "put the glass bowl on the top of the table",
+        "put bowl",
+        "put away bowl",
+        "put bowl on dish rack",
+        "put bowl of dough",
+        "put down slice",
+        "put down salad bowl",
+        "put down bowl",
+        "put a glass bowl on the table",
+        "place bowl on counter",
+        "put down bowls"
+    ],
+    "put pasta": [
+        "put down pasta",
+        "put spaghetti on plate",
+        "put pasta",
+        "put pasta on plate"
+    ],
+    "pull container": [
+        "pull down container"
+    ],
+    "take aubergine": [
+        "take aubergine",
+        "take aubergine and celery"
+    ],
+    "put celery": [
+        "put down celery"
+    ],
+    "move mushroom": [
+        "move mushrooms"
+    ],
+    "search chopping board": [
+        "looking for something"
+    ],
+    "put cheese": [
+        "put cheese on spaghetti",
+        "put down tomato sauce mozzarella and container",
+        "place cheese",
+        "placing cheese pack back",
+        "put cheese on eggs",
+        "put parmesan",
+        "put down parmesan",
+        "put down mozzarella",
+        "put down parmesan cheese",
+        "put cheese on bread",
+        "placing the cheese on the tortillas",
+        "put cheese on toast"
+    ],
+    "take skin": [
+        "take rind",
+        "take carrot skin",
+        "take peel",
+        "take skin",
+        "grab peach rinds",
+        "take potato skin",
+        "pick up banana peel",
+        "take banana skin",
+        "grab onion skin",
+        "pick up peelings"
+    ],
+    "insert skin": [
+        "put veggie peelings in new bin",
+        "put banana skin into bag"
+    ],
+    "move chopping board": [
+        "move chopping board",
+        "move cutting board"
+    ],
+    "take oil": [
+        "take olive oil",
+        "get oil",
+        "pick up oil",
+        "pick up some oil",
+        "grab oil",
+        "take the oil",
+        "get some oil",
+        "pick up olive oil",
+        "take oil",
+        "get olive oil"
+    ],
+    "open oil": [
+        "open oil"
+    ],
+    "pour oil": [
+        "pour olive oil on pasta",
+        "pouring some olive oil on the tomato",
+        "pour oil from plate to tray",
+        "pour oil on tray",
+        "pour olive oil onto baking tray",
+        "pour oil",
+        "pour olive oil into plate",
+        "pour olive oil in pan",
+        "pour oil in tray",
+        "pour olive oil in plate",
+        "pour oil in pan",
+        "pour olive oil over meat",
+        "pour olive oil onto potatoes",
+        "pour oil in pot",
+        "pour oil into salad bowl",
+        "pour oil into pan",
+        "pour oil onto tray",
+        "pour olive oil on salad",
+        "pour olive oil and thyme from plate to dough",
+        "pour oil on paella",
+        "pour oil into saucepan"
+    ],
+    "close oil": [
+        "close olive oil",
+        "close oil",
+        "close chilli oil"
+    ],
+    "put oil": [
+        "put chilli oil on food",
+        "put olive oil",
+        "put olive oil on chicken",
+        "put down chilli oil",
+        "put down oil",
+        "put oil",
+        "put down olive oil",
+        "put the oil back",
+        "put away chilli oil",
+        "put oil on side"
+    ],
+    "turn-on hob": [
+        "switch on the stove",
+        "turn stove on",
+        "turn on hob",
+        "turn on gas",
+        "turn on stove",
+        "turn on stove top",
+        "turn on the stove"
+    ],
+    "cut aubergine": [
+        "still dicing aubergine",
+        "dicing aubergine",
+        "continue dicing aubergine",
+        "continue cutting aubergine",
+        "cut aubergine"
+    ],
+    "throw aubergine": [
+        "throw aubergine end into bin"
+    ],
+    "check oil": [
+        "check oil"
+    ],
+    "move pan": [
+        "move saucepan",
+        "move pan"
+    ],
+    "adjust tap": [
+        "adjust tap"
+    ],
+    "wash chopping board": [
+        "wash chopping board",
+        "rinse chopping board",
+        "continue rinsing cutting board",
+        "rinse board",
+        "wash board",
+        "lather cutting board",
+        "wipe chopping board with rag",
+        "wash cutting board.",
+        "wash the cutting board",
+        "wash cutting board",
+        "wipe drying board",
+        "rinse cutting board",
+        "wash chopping board with sponge"
+    ],
+    "pour washing liquid": [
+        "pour soap on sponge",
+        "pour soap inside dish",
+        "pour washing up liquid on sponge",
+        "pour washing up liquid.",
+        "pour washing up liquid",
+        "pour soap"
+    ],
+    "wash pan": [
+        "wipe off pan",
+        "still washing frying pan",
+        "lather pan",
+        "continue washing saucepan",
+        "rinse pan",
+        "continue washing pan",
+        "continue rinsing saucepan",
+        "wash pan.",
+        "rinse saucepan",
+        "wipe frying pan with rag",
+        "wash pan",
+        "clean pan",
+        "rinse frying pan",
+        "continue washing pan.",
+        "wash saucepan",
+        "wash frying pan"
+    ],
+    "empty pan": [
+        "empty",
+        "empty pan.",
+        "empty saucepan",
+        "empty quorn in pan",
+        "empty pan"
+    ],
+    "wash colander": [
+        "continue rinsing colander",
+        "wash strainer",
+        "still rinsing colander",
+        "rinse strainer",
+        "rinse colander",
+        "continue washing colander",
+        "clean colander",
+        "wash colander"
+    ],
+    "wash container": [
+        "rinse container",
+        "wash container"
+    ],
+    "wash lid": [
+        "rinse lid",
+        "wash lid of pot",
+        "lather lid",
+        "wash lid",
+        "wash the lid of the tupperware"
+    ],
+    "filter chopping board": [
+        "drain cutting board"
+    ],
+    "squeeze pasta": [
+        "squeeze pasta"
+    ],
+    "move washing liquid": [
+        "move washing up liquid"
+    ],
+    "throw food": [
+        "throw leftovers",
+        "empty food remains in garbage",
+        "throw out food remains in garbage",
+        "throw leftovers in trash",
+        "throw leftovers in trash can",
+        "throw leftovers into bin"
+    ],
+    "filter plate": [
+        "drain plate"
+    ],
+    "hold pan": [
+        "hold pan"
+    ],
+    "remove towel": [
+        "remove towels"
+    ],
+    "put towel": [
+        "put down tea towel",
+        "put down towel",
+        "put tea towel",
+        "put towels"
+    ],
+    "knead dough": [
+        "knead dough in hand",
+        "knead dough in bowl",
+        "knead dough",
+        "knead ball of dough"
+    ],
+    "hold bowl": [
+        "hold bowl"
+    ],
+    "move bowl": [
+        "move bowl"
+    ],
+    "move kitchen towel": [
+        "move paper towel"
+    ],
+    "move tray": [
+        "move tray"
+    ],
+    "take yoghurt": [
+        "take yoghurts",
+        "pick up yoghurt"
+    ],
+    "apply olive": [
+        "spread olive in tray"
+    ],
+    "take dough": [
+        "pick up dough",
+        "get ball of dough",
+        "pick up dough half dough",
+        "pick up ball of dough"
+    ],
+    "put yoghurt": [
+        "put yoghurt",
+        "put away yoghurt",
+        "put yoghurt on rack"
+    ],
+    "roll dough": [
+        "roll ball of dough",
+        "roll all ball of dough",
+        "roll",
+        "roll dough"
+    ],
+    "apply oil": [
+        "spread oil on hand",
+        "spread oil in pot",
+        "spread oil in tray",
+        "apply oil in pan",
+        "squirt chilli oil"
+    ],
+    "knead bowl": [
+        "knead bowl of dough"
+    ],
+    "roll bowl": [
+        "roll bowl of dough"
+    ],
+    "put dough": [
+        "put ball of dough",
+        "put ball of dough on tray"
+    ],
+    "pour bottle": [
+        "pour oil bottle into plate"
+    ],
+    "mix sauce": [
+        "stirring tahini",
+        "mix tahini",
+        "stir sauce",
+        "mix sauce"
+    ],
+    "take meat": [
+        "get mix meat from pan",
+        "get some meat",
+        "pick up meat",
+        "get meat",
+        "get meat mix from pan",
+        "get meat mix from pan from spoon",
+        "take one piece of meat",
+        "get meat mix",
+        "get some meat from pan"
+    ],
+    "put meat": [
+        "put meat mix on dough",
+        "put it on the other",
+        "put mix meat on ball of dough",
+        "put meat on pan",
+        "put meat on ball of dough",
+        "put on the meat",
+        "put meat on counter",
+        "put meat mix on ball of dough",
+        "put mix meat on dough"
+    ],
+    "squeeze dough": [
+        "squeeze"
+    ],
+    "scoop sauce": [
+        "scoop tahini",
+        "spoon sauce into tupperware"
+    ],
+    "put mixture": [
+        "put mixture of olive oil and thyme onto dough",
+        "put mix on ball of dough"
+    ],
+    "turn-on oven": [
+        "turn oven on",
+        "light cooker",
+        "turn on the cooker",
+        "turn on cooker",
+        "switch on the oven",
+        "turn on oven",
+        "switch on cooker"
+    ],
+    "close sauce": [
+        "close tahini",
+        "close sauce",
+        "close tabasco"
+    ],
+    "open yoghurt": [
+        "open yoghurt"
+    ],
+    "scoop yoghurt": [
+        "spoon yoghurt",
+        "scoop yoghurt"
+    ],
+    "take leaf": [
+        "take the curry leaves",
+        "grab herbs",
+        "get the leaves",
+        "take oregano leaves",
+        "take leaves off basil plant",
+        "pick up herb",
+        "get mint leaves"
+    ],
+    "open jar": [
+        "open jar",
+        "open honey jar"
+    ],
+    "scoop thyme": [
+        "scoop thyme",
+        "scoop thyme using spoon",
+        "scoop thyme and olive oil using hand"
+    ],
+    "insert thyme": [
+        "put thyme in tray"
+    ],
+    "mix thyme": [
+        "mix thyme in plate",
+        "mix thyme and olive oil in plate"
+    ],
+    "put thyme": [
+        "put thyme",
+        "put thyme and olive oil on dough"
+    ],
+    "close yoghurt": [
+        "close yoghurt"
+    ],
+    "hold plate": [
+        "hold plate"
+    ],
+    "take thyme": [
+        "get thyme"
+    ],
+    "add olive": [
+        "add olive"
+    ],
+    "mix oil": [
+        "mix oil and curry in pan",
+        "mix olive oil and thyme",
+        "mix oil"
+    ],
+    "scoop oil": [
+        "scoop olive oil and thyme",
+        "scoop olive oil and dough from plate",
+        "spoon fish oil"
+    ],
+    "insert oil": [
+        "put oil into the second pot",
+        "put oil in the pan",
+        "put in oil",
+        "put oil in pan",
+        "put some more oil into the pot",
+        "put olive oil and thyme into dough",
+        "put the oil into the pan"
+    ],
+    "add oil": [
+        "add olive oil and thyme to dough"
+    ],
+    "mix meat": [
+        "stir meat",
+        "mixing meat",
+        "stir meat with tahini and yoghurt",
+        "still stirring meat",
+        "mix meat",
+        "stir meat with yoghurt and tahini",
+        "stir meat with yoghurt"
+    ],
+    "add thyme": [
+        "add thyme to dough"
+    ],
+    "pour thyme": [
+        "pour thyme from plate to dough"
+    ],
+    "take towel": [
+        "take tea towel",
+        "taking a towel",
+        "take towel",
+        "grab towel",
+        "pick up towel",
+        "pick up tea towel"
+    ],
+    "take nut": [
+        "pick up pine nuts",
+        "pick up pine nuts from hand",
+        "pick up peanuts"
+    ],
+    "pour nut": [
+        "pour pine nuts into hand"
+    ],
+    "put nut": [
+        "put away peanuts",
+        "put pine nuts on pie",
+        "place pine nuts"
+    ],
+    "add nut": [
+        "add pine nuts to pie",
+        "add pine nuts on pie"
+    ],
+    "pour bag": [
+        "pour pine nuts bag into hand"
+    ],
+    "put bag": [
+        "return pine nuts bag",
+        "return bag",
+        "place plastic bag",
+        "put coffee bag",
+        "put dressing in bag",
+        "place both plastic bags",
+        "place bag",
+        "put bag of coffee",
+        "put bag of pasta back",
+        "put breadcrumbs bag",
+        "place capsules bag",
+        "put pine nuts bag",
+        "put bag on counter",
+        "put bag",
+        "put oregano bag down",
+        "put rice bag on counter",
+        "put down bag",
+        "put down bag and box",
+        "putting inside the bag"
+    ],
+    "take box": [
+        "get tupperware",
+        "pick up lunch box",
+        "take eggs box",
+        "pick up cereal box",
+        "pick up tub",
+        "pick up box of carrots",
+        "take tupperware",
+        "take fajitas box",
+        "take carrot box",
+        "pick up two tupperware",
+        "pick up tupperware",
+        "grab lunch box",
+        "take box from fridge",
+        "take box"
+    ],
+    "take glove": [
+        "pick up oven mitt",
+        "pick up oven glove",
+        "grab oven mitts",
+        "take oven mittens",
+        "pick up oven gloves",
+        "pick up glove"
+    ],
+    "open oven": [
+        "open oven again",
+        "open cooker",
+        "open oven door",
+        "open oven"
+    ],
+    "remove tray": [
+        "remove oven tray",
+        "remove baking tray",
+        "take out baking tray",
+        "take out oven tray"
+    ],
+    "press tray": [
+        "push oven tray"
+    ],
+    "close oven": [
+        "close the oven",
+        "close oven",
+        "close oven door"
+    ],
+    "remove glove": [
+        "remove oven glove",
+        "take off mitten",
+        "take out gloves",
+        "take off oven gloves",
+        "remove glove"
+    ],
+    "open leaf": [
+        "open herb"
+    ],
+    "insert meat": [
+        "put meat in tupperware",
+        "put meat in oven",
+        "place meat in pan"
+    ],
+    "sprinkle leaf": [
+        "sprinkle herb on meat"
+    ],
+    "put box": [
+        "put tupperware away",
+        "put back box into fridge",
+        "put box of carrots into fridge",
+        "place tupperware",
+        "put cheese box",
+        "put carrot box",
+        "put tupperware down",
+        "put tupperware of oregano in cupboard",
+        "put down tupperware",
+        "put tupperware on dish rack",
+        "put cereal box",
+        "put down fajitas box",
+        "put tupperware on counter",
+        "put the box on the self",
+        "place box on top of fridge",
+        "put down box",
+        "put box"
+    ],
+    "pour yoghurt": [
+        "pour yoghurt"
+    ],
+    "eat meat": [
+        "taste meat mix"
+    ],
+    "close leaf": [
+        "close herbs",
+        "close herb"
+    ],
+    "move bag": [
+        "move bags",
+        "move plastic bag"
+    ],
+    "take cupboard": [
+        "pick up open cupboard"
+    ],
+    "put leaf": [
+        "place leaves in mug",
+        "put outside",
+        "put herbs on side",
+        "put herb",
+        "put tarragon on cutting",
+        "put spinach leaves on plate"
+    ],
+    "remove lid": [
+        "remove lid from pan",
+        "remove kettle lid",
+        "take off the lid",
+        "take lid off pan",
+        "take off the lid of oregano",
+        "remove lid",
+        "remove pan lid",
+        "take lid off",
+        "take off lid of pot",
+        "take off lid"
+    ],
+    "shake tray": [
+        "shake tray"
+    ],
+    "move can": [
+        "move can"
+    ],
+    "set alarm": [
+        "set oven timer",
+        "set timer",
+        "set off timer"
+    ],
+    "pull drawer": [
+        "pull drawer"
+    ],
+    "press drawer": [
+        "push drawer"
+    ],
+    "wear glove": [
+        "wear oven glove"
+    ],
+    "pull oven": [
+        "pull drawer of oven"
+    ],
+    "take pie": [
+        "pick up pie"
+    ],
+    "put pie": [
+        "place pie",
+        "put down pie",
+        "put pie"
+    ],
+    "move pie": [
+        "move pie"
+    ],
+    "take kitchen towel": [
+        "pick up kitchen roll",
+        "get kitchen towel",
+        "get paper towel",
+        "pick up paper towel"
+    ],
+    "insert pie": [
+        "place pie in tupperware"
+    ],
+    "dry box": [
+        "dry tupperware"
+    ],
+    "hold box": [
+        "hold tupperware"
+    ],
+    "dry lid": [
+        "dry lid"
+    ],
+    "hold lid": [
+        "hold and dry lid"
+    ],
+    "remove salad": [
+        "remove salad from fridge"
+    ],
+    "insert egg": [
+        "move eggs in fridge",
+        "put eggs back in fridge",
+        "put eggs into the pan"
+    ],
+    "put juice": [
+        "put juice"
+    ],
+    "take juice": [
+        "take juice.",
+        "grab juice"
+    ],
+    "open juice": [
+        "open juice"
+    ],
+    "pour juice": [
+        "pour juice"
+    ],
+    "close juice": [
+        "close juice"
+    ],
+    "take drink": [
+        "grab drink"
+    ],
+    "insert drink": [
+        "put drink in bag"
+    ],
+    "take pancake": [
+        "pick up cake pan",
+        "grab pancakes"
+    ],
+    "put pancake": [
+        "put pancakes on plate"
+    ],
+    "insert fork": [
+        "put fork in sink",
+        "put fork in drawer",
+        "put fork in bowl",
+        "put fork in tupperware",
+        "put fork in bag"
+    ],
+    "put salmon": [
+        "put salmon on counter",
+        "put salmon on plate",
+        "put salmon",
+        "put down salmon",
+        "put salmon on foil"
+    ],
+    "pour potato": [
+        "pour potatoes"
+    ],
+    "put potato": [
+        "put down chips",
+        "put potatoes",
+        "put down potatoes",
+        "put potatoes to one side"
+    ],
+    "shake pan": [
+        "shake saucepan",
+        "shake pan"
+    ],
+    "check heat": [
+        "check temperature of water",
+        "check oil temperature",
+        "check watch temperature",
+        "check heat",
+        "check temperature"
+    ],
+    "pour kettle": [
+        "pour kettle into pan",
+        "pour kettle"
+    ],
+    "take foil": [
+        "pick up foil",
+        "grab foil"
+    ],
+    "open salmon": [
+        "open salmon"
+    ],
+    "put foil": [
+        "put foil on tray",
+        "put foil",
+        "put away kitchen foil",
+        "put kitchen foil on hob",
+        "place foil"
+    ],
+    "cut foil": [
+        "cut a piece of aluminium foil",
+        "cut foil",
+        "cut foil in half",
+        "cut kitchen foil"
+    ],
+    "take salmon": [
+        "pick up salmon",
+        "grab salmon"
+    ],
+    "put package": [
+        "put packaging on side",
+        "put down wraps package",
+        "place salad pack on table",
+        "put down package",
+        "place soup pack on table",
+        "put down mixed spices package",
+        "put plastic on side",
+        "pick bread packaging into drawer"
+    ],
+    "take pepper": [
+        "take pepper",
+        "grab pepper",
+        "pick up pepper"
+    ],
+    "open pepper": [
+        "open pepper"
+    ],
+    "crush pepper": [
+        "grind pepper"
+    ],
+    "close pepper": [
+        "close pepper"
+    ],
+    "put pepper": [
+        "put pepper on meat",
+        "put pepper on side",
+        "put down pepper and tomato",
+        "put pepper onto food",
+        "put down piece of pepper",
+        "put down pepper",
+        "put pepper"
+    ],
+    "pour leaf": [
+        "pour herbs"
+    ],
+    "take paste": [
+        "grab garlic paste"
+    ],
+    "press paste": [
+        "press garlic paste"
+    ],
+    "open paste": [
+        "open garlic paste"
+    ],
+    "squeeze paste": [
+        "squeeze garlic paste"
+    ],
+    "scoop paste": [
+        "scoop garlic paste"
+    ],
+    "close paste": [
+        "close garlic paste"
+    ],
+    "put paste": [
+        "put garlic paste"
+    ],
+    "apply garlic": [
+        "spread garlic"
+    ],
+    "sprinkle salt": [
+        "sprinkle salt",
+        "sprinkling some salt and pepper"
+    ],
+    "wrap foil": [
+        "wrap foil"
+    ],
+    "fold foil": [
+        "fold kitchen foil",
+        "fold foil"
+    ],
+    "fill kettle": [
+        "fill kettle",
+        "fill kettle with water",
+        "fill boiler"
+    ],
+    "take potato": [
+        "pick up potato",
+        "grab potatoes",
+        "take potatoes",
+        "pick up chips",
+        "pick up potatoes"
+    ],
+    "turn-down hob": [
+        "turn down gas",
+        "turn down hob"
+    ],
+    "turn-on extractor fan": [
+        "turn on extractor fan"
+    ],
+    "move tap": [
+        "move tap"
+    ],
+    "filter water": [
+        "drain water",
+        "drain water from pan"
+    ],
+    "pour vegetable": [
+        "pour vegetables on plate",
+        "pour vegetables into colander"
+    ],
+    "scoop vegetable": [
+        "scoop vegetables",
+        "spoon vegetables",
+        "still spooning vegetables onto plate",
+        "scoop out vegetables into bowl"
+    ],
+    "scoop potato": [
+        "spoon potatoes"
+    ],
+    "turn-off oven": [
+        "turn off cooker",
+        "turn off oven"
+    ],
+    "turn-off extractor fan": [
+        "turn off kitchen hood",
+        "turn off extractor fan",
+        "turn off fan",
+        "switch off the fans"
+    ],
+    "put glove": [
+        "put down oven mitts",
+        "put on oven glove",
+        "put on oven mitt",
+        "put oven mitts on oven",
+        "put oven glove down",
+        "put down oven glove",
+        "put mitten away",
+        "put away oven gloves",
+        "put glove on",
+        "put on glove",
+        "put on oven gloves",
+        "put oven gloves down",
+        "put down glove",
+        "put glove back"
+    ],
+    "open foil": [
+        "open foil"
+    ],
+    "scoop salmon": [
+        "spoon salmon"
+    ],
+    "insert foil": [
+        "put aluminium foil in cupboard",
+        "put foil in bin"
+    ],
+    "pour carrot": [
+        "pour carrots"
+    ],
+    "open corn": [
+        "open sweet corn"
+    ],
+    "pour corn": [
+        "pour sweet corn"
+    ],
+    "open freezer": [
+        "open freezer"
+    ],
+    "put carrot": [
+        "put away carrot",
+        "put carrots",
+        "put down carrots"
+    ],
+    "put corn": [
+        "put back corns",
+        "put sweet corn"
+    ],
+    "close freezer": [
+        "close freezer"
+    ],
+    "move water": [
+        "transfer water"
+    ],
+    "cut potato": [
+        "chop potato",
+        "still cutting potato",
+        "cut potatoes",
+        "cut potato"
+    ],
+    "take corn": [
+        "grab sweet corn"
+    ],
+    "turn-down extractor fan": [
+        "turn down fan"
+    ],
+    "mix potato": [
+        "stir potatoes",
+        "stir potatoes in the pain",
+        "stir potatoes in pan",
+        "mix potatoes and onion in the pan",
+        "keep stirring potatoes",
+        "stir potatoes and onion in the pan"
+    ],
+    "take carrot": [
+        "take carrots from box",
+        "take carrot",
+        "grab carrots",
+        "grab carrot",
+        "pick up carrots",
+        "take carrots"
+    ],
+    "take spice": [
+        "grab spice",
+        "take spices",
+        "take mixed spices and put down spatula",
+        "pick up tamarind spice"
+    ],
+    "scoop spice": [
+        "spoon spice",
+        "spoon spice mix"
+    ],
+    "close spice": [
+        "close spice mix"
+    ],
+    "put spice": [
+        "put down spices",
+        "place spice",
+        "put spice mix on side",
+        "put away spice"
+    ],
+    "insert rubbish": [
+        "put rubbish in bin"
+    ],
+    "put scissors": [
+        "put down scissors",
+        "put away scissors",
+        "put scissors",
+        "put scissors on counter",
+        "put scissors away"
+    ],
+    "rip package": [
+        "tear off plastic"
+    ],
+    "shake potato": [
+        "shake potatoes in pan",
+        "shake potatoes"
+    ],
+    "take package": [
+        "grab plastic",
+        "pick up cheese packets",
+        "take plastic",
+        "pick up carton",
+        "take salad package",
+        "take slice of bread from bread packaging",
+        "take wraps package",
+        "take tea pack from cupboard",
+        "pick up bread packaging",
+        "take salad pack",
+        "pick up packet",
+        "pick up wrapper",
+        "take soup pack"
+    ],
+    "wash package": [
+        "rinse beef packet",
+        "wash plastic",
+        "rinse packaging"
+    ],
+    "fill glass": [
+        "fill the glass with water",
+        "fill up glass",
+        "fill glass"
+    ],
+    "take squash": [
+        "take squash"
+    ],
+    "pour squash": [
+        "pour squash"
+    ],
+    "close squash": [
+        "close squash"
+    ],
+    "insert squash": [
+        "put squash in fridge"
+    ],
+    "take grape": [
+        "taking some grapes",
+        "take grapes"
+    ],
+    "insert grape": [
+        "put grapes in fridge"
+    ],
+    "open package": [
+        "open lettuce package",
+        "open packet",
+        "open pasta package",
+        "continue opening fajitas package",
+        "open bread packaging",
+        "opening the tortilla pack",
+        "open bread package",
+        "open salad package",
+        "open fishcake packaging",
+        "open cheese package",
+        "open package of cheese",
+        "open chicken packet",
+        "open package",
+        "open potato packet",
+        "open packaging",
+        "open fishcake packets",
+        "open fajitas package",
+        "open plastic",
+        "open salad packaging",
+        "open leek packaging",
+        "open mixed spices package",
+        "opening the cheese pack",
+        "open kale package"
+    ],
+    "take scale": [
+        "pick up scales"
+    ],
+    "put scale": [
+        "put down scales",
+        "put away scales"
+    ],
+    "measure nut": [
+        "measure peanuts"
+    ],
+    "close package": [
+        "close salad packaging",
+        "close bread package",
+        "close packing",
+        "close package",
+        "closing the cheese pack",
+        "closing the tortilla pack",
+        "close packet",
+        "close egg carton"
+    ],
+    "crush spice": [
+        "grind spices"
+    ],
+    "scrape pestle": [
+        "scrape pestle"
+    ],
+    "scrape spice": [
+        "scrape spices into pan"
+    ],
+    "mix paste": [
+        "mix spice paste",
+        "stir spice paste"
+    ],
+    "look package": [
+        "read packet"
+    ],
+    "search coconut": [
+        "look for coconut powder"
+    ],
+    "check water": [
+        "test water"
+    ],
+    "fill bowl": [
+        "fill bowl with water"
+    ],
+    "sprinkle coconut": [
+        "sprinkle coconut powder"
+    ],
+    "mix coconut": [
+        "mix coconut powder"
+    ],
+    "open coconut": [
+        "open coconut powder"
+    ],
+    "mix milk": [
+        "stir milk",
+        "stir coconut milk",
+        "mix coconut milk"
+    ],
+    "scoop milk": [
+        "spoon coconut milk into pan",
+        "spoon coconut milk to spice paste"
+    ],
+    "take beef": [
+        "pick up beef"
+    ],
+    "cut beef": [
+        "cut beef"
+    ],
+    "insert nut": [
+        "put peanuts in oven"
+    ],
+    "put alarm": [
+        "put timer on"
+    ],
+    "mix beef": [
+        "stir beef"
+    ],
+    "add water": [
+        "add some more water",
+        "add some water into the bowl",
+        "add water",
+        "add some water into the glass table"
+    ],
+    "take potato peeler": [
+        "pick up potato peeler",
+        "pick up peeler",
+        "grab potato peeler",
+        "take peeler",
+        "get potato peelers"
+    ],
+    "peel potato": [
+        "peel potatoes",
+        "peel potato"
+    ],
+    "check nut": [
+        "check peanuts"
+    ],
+    "insert potato": [
+        "put potatoes in cupboard",
+        "put potatoes in pan",
+        "move potatoes in pan",
+        "put potato in pan",
+        "move potatoes in the pan",
+        "put potato in bin",
+        "to put potato in the frying pan",
+        "put potatoes in the pan"
+    ],
+    "mix pan": [
+        "stir content of pan",
+        "mix around in pan the meat",
+        "stir pan",
+        "stir pan contents",
+        "mix twice in pan",
+        "mix contents of pan"
+    ],
+    "pour powder": [
+        "pour coconut milk powder"
+    ],
+    "put water": [
+        "use water wash it again and put it on the oven",
+        "put salt water",
+        "put some water",
+        "put water"
+    ],
+    "turn-on light": [
+        "switch on the light and the fans",
+        "turn light on",
+        "turn oven light on",
+        "switch on the light",
+        "turn on lights",
+        "turn on light"
+    ],
+    "take chilli": [
+        "get chilli",
+        "get some salted chilli pepper",
+        "take the red chilli",
+        "pick up chillies",
+        "take the red chillies",
+        "pick up chilli flakes"
+    ],
+    "cut chilli": [
+        "cut the chilli pepper into small pieces",
+        "slice chillies",
+        "chop end of chilli",
+        "slice chilli"
+    ],
+    "remove pith": [
+        "remove pith from chilli",
+        "remove pith"
+    ],
+    "insert chilli": [
+        "put hot pepper in pan",
+        "put chilli in pan",
+        "put the chilli pepper inside the pot"
+    ],
+    "search spice": [
+        "keep looking for spice",
+        "look for spice"
+    ],
+    "smell box": [
+        "smell"
+    ],
+    "look label": [
+        "look at label"
+    ],
+    "put label": [
+        "put back"
+    ],
+    "unwrap onion": [
+        "unwrap onion"
+    ],
+    "peel onion": [
+        "peel onion"
+    ],
+    "check fridge": [
+        "look in fridge"
+    ],
+    "scoop sugar": [
+        "spoon sugar"
+    ],
+    "eat liquid": [
+        "taste liquid"
+    ],
+    "move slow cooker": [
+        "move slow cooker",
+        "move rice cooker"
+    ],
+    "put slow cooker": [
+        "put rice cooker on floor",
+        "put the steamer on top of the oven",
+        "put rice cooker down"
+    ],
+    "attach slow cooker": [
+        "plug slow cooker in",
+        "plug in rice cooker"
+    ],
+    "turn-on plug": [
+        "turn on socket"
+    ],
+    "check drawer": [
+        "look in spice drawer"
+    ],
+    "put coconut": [
+        "put away coconut powder"
+    ],
+    "insert package": [
+        "put cheese packets into bin",
+        "put beef packet in bin",
+        "put packets in bin",
+        "put packets into bin",
+        "put tea pack in cupboard",
+        "put soy milk carton in recycling bin",
+        "put carton in fridge"
+    ],
+    "insert shrimp": [
+        "put the shrimp inside another pot",
+        "put shrimp paste in cupboard",
+        "put the frozen shrimp inside the bowl"
+    ],
+    "insert sauce": [
+        "put sauce into pot",
+        "put sauce in the pan",
+        "put fish sauce in cupboard",
+        "put sauce in wrap",
+        "put salsa in the pasta",
+        "put pesto in spaghetti"
+    ],
+    "insert lemon grass": [
+        "put lemon grass and galangal in fridge"
+    ],
+    "insert cinnamon": [
+        "put cinnamon in pan"
+    ],
+    "take rubbish": [
+        "remove the waste on the table",
+        "take the waste",
+        "pick up rubbish",
+        "take rubbish and put down box"
+    ],
+    "dry knife": [
+        "dry knife"
+    ],
+    "dry pan": [
+        "dry pan"
+    ],
+    "take burger": [
+        "pick tuna patty",
+        "pick up tuna patties"
+    ],
+    "insert burger": [
+        "put tuna patties in pan"
+    ],
+    "search rice": [
+        "look for rice"
+    ],
+    "take rice": [
+        "get rice",
+        "get vegetable rice",
+        "get jasmine rice",
+        "pick up rice",
+        "get some rice"
+    ],
+    "open rice": [
+        "open rice"
+    ],
+    "insert rice": [
+        "put the rice in the pot",
+        "put rice in lunch box",
+        "put rice in container",
+        "put the rice into the pot",
+        "still putting rice in lunch box",
+        "put rice in microwave"
+    ],
+    "pour coconut": [
+        "pour coconut powder in slow cooker",
+        "pour coconut powder",
+        "pour coconut powder into pan"
+    ],
+    "turn-on microwave": [
+        "turn microwave on",
+        "begin microwave",
+        "start microwave",
+        "turn on microwave",
+        "turn on microwave oven"
+    ],
+    "look recipe": [
+        "read instructions",
+        "read instructions on box",
+        "read instructions on package",
+        "look at recipe"
+    ],
+    "flip burger": [
+        "flip tuna patty"
+    ],
+    "take omelette": [
+        "pick up tamagoyaki"
+    ],
+    "insert omelette": [
+        "put tamagoyaki in lunch box"
+    ],
+    "open cucumber": [
+        "open cucumber salad"
+    ],
+    "insert cucumber": [
+        "put cucumber in salad bowl",
+        "put cucumber salad in lunch box",
+        "put cucumber in fridge"
+    ],
+    "open microwave": [
+        "open microwave",
+        "open microwave oven"
+    ],
+    "put cucumber": [
+        "put cut cucumber in bowl",
+        "put cucumber on counter",
+        "put away cucumber salad",
+        "put cucumber on plate"
+    ],
+    "open carrot": [
+        "open carrots",
+        "open carrot"
+    ],
+    "insert carrot": [
+        "put carrot in lunch box",
+        "put carrot in the salad bowl",
+        "put carrots in bag",
+        "put carrot into hummus",
+        "put carrots into bowl",
+        "put carrots in fridge"
+    ],
+    "dry fork": [
+        "dry fork"
+    ],
+    "take raisin": [
+        "take raisins",
+        "pick up raisins",
+        "take raisins from bag"
+    ],
+    "pour raisin": [
+        "pour raisins",
+        "pour raisins into bowl",
+        "pour raisins into pan"
+    ],
+    "put raisin": [
+        "put away raisins"
+    ],
+    "insert cupboard": [
+        "put in cupboard"
+    ],
+    "put rolling pin": [
+        "put away rolling pin"
+    ],
+    "put chilli": [
+        "place chilli on avocado",
+        "put chilli on avocado",
+        "put chilli flakes back in cupboard",
+        "put the red chilli sorry turmeric powder onto the curry"
+    ],
+    "look cupboard": [
+        "stare at cupboard"
+    ],
+    "insert kitchen towel": [
+        "put kitchen roll in bin"
+    ],
+    "dry spoon": [
+        "dry spoon"
+    ],
+    "wash bowl": [
+        "wash washing up bowl",
+        "continue washing bowl",
+        "wash the glass bowl",
+        "wipe bowl with tissue",
+        "still rinsing bowl",
+        "lather bowl",
+        "continue rinsing washing up bowl",
+        "still wiping bowl with rag",
+        "wipe bowl",
+        "wash bowl with rag",
+        "washing that bowl",
+        "wipe bowl with rag",
+        "rinse washing up bowl",
+        "wash the bowl",
+        "rinse bowl",
+        "still washing bowl with rag",
+        "wash bowl",
+        "rinse salad bowl",
+        "lather salad bowl"
+    ],
+    "insert dishwasher": [
+        "place in dishwasher",
+        "put in dishwasher",
+        "load dishwasher",
+        "put wok in dishwasher"
+    ],
+    "insert chopping board": [
+        "put board back into the utensil shelf",
+        "put chopping board in dishwasher",
+        "put chopping board into sink"
+    ],
+    "insert cutlery": [
+        "place cutlery in drawer",
+        "put cutlery in dishwasher"
+    ],
+    "empty box": [
+        "empty tupperware into bin"
+    ],
+    "wash pestle": [
+        "wash pestle and mortar",
+        "still washing pestle and mortar"
+    ],
+    "check slow cooker": [
+        "check slow cooker"
+    ],
+    "mix slow cooker": [
+        "stir slow cooker"
+    ],
+    "eat food": [
+        "eat food on fork",
+        "taste food"
+    ],
+    "filter sink": [
+        "drain sink"
+    ],
+    "empty dishwasher": [
+        "emptying dishwasher"
+    ],
+    "take coconut": [
+        "pick up coconut powder"
+    ],
+    "take slow cooker": [
+        "pick up rice cooker"
+    ],
+    "turn-on button": [
+        "turn on switch"
+    ],
+    "pull bowl": [
+        "pull out rice cooker bowl"
+    ],
+    "measure rice": [
+        "measure rice"
+    ],
+    "put rice": [
+        "put rice back",
+        "put away rice",
+        "put back"
+    ],
+    "wash rice": [
+        "wash rice",
+        "wash the rice",
+        "still washing rice",
+        "clean rice"
+    ],
+    "measure water": [
+        "measure water into rice cooker"
+    ],
+    "dry bowl": [
+        "dry salad bowl",
+        "dry outside of rice cooker bowl",
+        "dry bowl"
+    ],
+    "scrape rice": [
+        "scrape rice into water"
+    ],
+    "remove broccoli": [
+        "take out broccoli"
+    ],
+    "put broccoli": [
+        "put broccoli down",
+        "put broccoli on plate"
+    ],
+    "fill pan": [
+        "fill pan with water",
+        "fill saucepan"
+    ],
+    "cut broccoli": [
+        "chop broccoli"
+    ],
+    "insert broccoli": [
+        "put broccoli in pan",
+        "put broccoli sort in bin"
+    ],
+    "put jug": [
+        "put the water filter on the table",
+        "replace measuring drums",
+        "put away measuring jug"
+    ],
+    "pour chilli": [
+        "pour chilli flakes in slow cooker"
+    ],
+    "eat curry": [
+        "taste curry"
+    ],
+    "insert salt": [
+        "put some salt inside the pot",
+        "put salt in salad",
+        "put salt in curry",
+        "put salt in pot",
+        "put salt in saucepan",
+        "put in salt",
+        "put salt and pepper in cupboard",
+        "put some more salt into the bean curd",
+        "put salt into pan",
+        "put salt in sauce",
+        "put salt in cupboard",
+        "put salt in spaghetti",
+        "put salt into the pan",
+        "put salt into the spoon"
+    ],
+    "attach container": [
+        "fix pepper container"
+    ],
+    "mix broccoli": [
+        "mix broccoli"
+    ],
+    "check rice": [
+        "check rice"
+    ],
+    "scoop rice": [
+        "spoon rice onto plate",
+        "spoon rice into tupperware"
+    ],
+    "open slow cooker": [
+        "open slow cooker"
+    ],
+    "serve curry": [
+        "serve curry"
+    ],
+    "filter broccoli": [
+        "drain broccoli"
+    ],
+    "turn-off light": [
+        "turn off lights",
+        "turn off light"
+    ],
+    "turn-off slow cooker": [
+        "turn off rice cooker"
+    ],
+    "attach kettle": [
+        "plug in kettle"
+    ],
+    "uncover pot": [
+        "uncover pot"
+    ],
+    "take pot": [
+        "grab a pot",
+        "pick up pot",
+        "get another pot",
+        "pick up spaghetti pot",
+        "pick up small pot",
+        "get pot",
+        "grab pot",
+        "take pot"
+    ],
+    "pour soup": [
+        "pour soup into pot",
+        "pour soup into bowl"
+    ],
+    "serve soup": [
+        "serve soup in bowl"
+    ],
+    "put pot": [
+        "place pot on sink",
+        "place pot on hob",
+        "put on pot",
+        "pot put on drying rack",
+        "place",
+        "put pot on cooker",
+        "put second pot on oven too",
+        "put pot on dish rack",
+        "put down pot and lids",
+        "place pot back in coffee machine",
+        "put down pot",
+        "put the pot back into the sink",
+        "put pot on stove top",
+        "put pot",
+        "place pot",
+        "put pot back on stove top",
+        "put the pot on the utensil shelf",
+        "put pot on stove",
+        "put the pot on the cooker",
+        "place pot on drainer",
+        "put pot on hob"
+    ],
+    "wrap pot": [
+        "cover pot"
+    ],
+    "press button": [
+        "press switch",
+        "press button",
+        "press button on microwave"
+    ],
+    "fold plastic wrap": [
+        "fold film"
+    ],
+    "throw plastic wrap": [
+        "throw out the plastic wrap",
+        "throw film"
+    ],
+    "empty water": [
+        "empty water in pot",
+        "empty water in jug"
+    ],
+    "take soup": [
+        "take soup"
+    ],
+    "pour salad": [
+        "pour salad in bowl",
+        "still pouring salad into bowl",
+        "pour salad in pot",
+        "pour salad on plate",
+        "pour salad into bowl"
+    ],
+    "mix salad": [
+        "mix salad",
+        "stir salad in pot",
+        "stir salad"
+    ],
+    "shake pot": [
+        "shake another pot",
+        "shake the pot",
+        "shake pot",
+        "shake the pot to make the oil evenly cover the bottle bottom of the pot",
+        "shake the first pot",
+        "shake the second pot"
+    ],
+    "insert salad": [
+        "move salad in pot",
+        "put salad and cucumber in fridge",
+        "put salad in fridge"
+    ],
+    "mix soup": [
+        "stir soup"
+    ],
+    "wash pot": [
+        "wash pot",
+        "rinse pot",
+        "wash the pot",
+        "rinse off pot",
+        "clean the pot",
+        "clean upper part of pot",
+        "still washing pot",
+        "clean pot",
+        "clean the pot and the food spade again"
+    ],
+    "empty kettle": [
+        "empty kettle into pitcher",
+        "empty kettle"
+    ],
+    "take sugar": [
+        "pick up sugar",
+        "take sugar"
+    ],
+    "pour sugar": [
+        "pour sugar into cup"
+    ],
+    "take food": [
+        "take leftovers",
+        "take the ingredients",
+        "take food from microwave",
+        "pick up paella",
+        "take paella",
+        "take food from cupboard"
+    ],
+    "pour food": [
+        "pour food on plate"
+    ],
+    "throw package": [
+        "throw plastic",
+        "throw away packet",
+        "throw away packaging",
+        "throw plastic strip in bin",
+        "throw away wrapper",
+        "throw away plastic from rice bag",
+        "throw away plastic",
+        "throw packaging to the garbage",
+        "throw packaging",
+        "thrown away packaging"
+    ],
+    "close microwave": [
+        "close microwave open",
+        "close microwave",
+        "close microwave oven"
+    ],
+    "insert pot": [
+        "put the pot into the sink",
+        "put pot back in coffee machine",
+        "put pot in sink",
+        "put the pot into the electric pot",
+        "put pot in coffee machine",
+        "put pot in cupboard",
+        "put it into the pot"
+    ],
+    "turn-off kettle": [
+        "turn off kettle"
+    ],
+    "mix water": [
+        "mix the water with the flour",
+        "mix the water with the flour powder",
+        "stir water",
+        "mix water",
+        "stir the water"
+    ],
+    "insert tea": [
+        "put teabag in bin",
+        "put tea bag in cup",
+        "put tea bag into bin"
+    ],
+    "pour meat": [
+        "pour meat in container"
+    ],
+    "throw tea": [
+        "throw away tea bag",
+        "throw tea bag"
+    ],
+    "remove plate": [
+        "try to take out dish",
+        "remove the plate from the pan",
+        "remove plate from microwave oven"
+    ],
+    "mix cup": [
+        "stir content of mug",
+        "stir mug"
+    ],
+    "shake lid": [
+        "shake lid"
+    ],
+    "open potato": [
+        "open potatoes"
+    ],
+    "open dishwasher": [
+        "open dishwasher",
+        "open dishwasher drawer",
+        "open dishwasher."
+    ],
+    "close dishwasher": [
+        "close dishwasher"
+    ],
+    "move carrot": [
+        "move carrots"
+    ],
+    "cut carrot": [
+        "chop carrots",
+        "cut carrot",
+        "chop ends off carrots"
+    ],
+    "adjust heat": [
+        "adjust heat on stove",
+        "change cooker temperature",
+        "adjusting heat",
+        "adjust temperature",
+        "adjust heat on oven",
+        "change oven temperature",
+        "adjust gas temperature",
+        "adjust temperature on oven",
+        "adjust heat"
+    ],
+    "take pea": [
+        "take peas"
+    ],
+    "insert pea": [
+        "put peas in fridge",
+        "put peas back in fridge"
+    ],
+    "scrape carrot": [
+        "scrape carrots into pan"
+    ],
+    "pour pea": [
+        "pour peas into pan"
+    ],
+    "open pea": [
+        "open peas"
+    ],
+    "filter vegetable": [
+        "drain vegetables"
+    ],
+    "shake vegetable": [
+        "shake vegetables",
+        "shake vegetables in colander"
+    ],
+    "move vegetable": [
+        "move vegetables"
+    ],
+    "move lid": [
+        "move lid",
+        "move lids"
+    ],
+    "put vegetable": [
+        "put vegetables onto plate"
+    ],
+    "scrape vegetable": [
+        "scrape vegetables onto plate",
+        "scrape vegetables into tupperware"
+    ],
+    "scrape pea": [
+        "scrape peas off spoon"
+    ],
+    "put chicken": [
+        "put chicken onto plate",
+        "put chicken on baking tray",
+        "put chicken on tray",
+        "put down chicken"
+    ],
+    "scoop chicken": [
+        "spoon chicken into tupperware"
+    ],
+    "insert cereal": [
+        "put cereal in milk",
+        "put cereal back in packet",
+        "put cereal in cupboard",
+        "put cereal in bowl"
+    ],
+    "open raisin": [
+        "open raisins with scissors"
+    ],
+    "wrap raisin": [
+        "reseal raisins"
+    ],
+    "insert raisin": [
+        "put raisins in cupboard",
+        "put raisins back in bag",
+        "put raisins in salad"
+    ],
+    "throw rice": [
+        "throw rice in trash"
+    ],
+    "close lid": [
+        "close lid in container",
+        "close lid",
+        "close the lid",
+        "close kettle lid",
+        "screw lid onto soy milk"
+    ],
+    "open cereal": [
+        "open cereal"
+    ],
+    "close cereal": [
+        "close cereal"
+    ],
+    "remove chicken": [
+        "remove chicken breast from packet",
+        "take chicken out of package"
+    ],
+    "wash chicken": [
+        "rinse chicken"
+    ],
+    "cut chicken": [
+        "cut chicken",
+        "slice chicken"
+    ],
+    "take banana": [
+        "grab banana",
+        "take banana",
+        "pick up banana",
+        "take banana and basil"
+    ],
+    "cut banana": [
+        "slice banana into glass with smoothie",
+        "slice banana",
+        "cut banana"
+    ],
+    "turn knob": [
+        "turn knob"
+    ],
+    "move chicken": [
+        "move chicken"
+    ],
+    "add chicken": [
+        "add chicken to pan"
+    ],
+    "add washing liquid": [
+        "add soap in top"
+    ],
+    "wash box": [
+        "wash tupperware",
+        "wash the plastic box",
+        "rinse tupperware"
+    ],
+    "take jar": [
+        "take jar",
+        "pick up jar",
+        "get jar"
+    ],
+    "pour coffee": [
+        "pour coffee into cup",
+        "pour coffee in mug"
+    ],
+    "wrap milk": [
+        "cover milk"
+    ],
+    "serve rice": [
+        "serve rice in tupperware"
+    ],
+    "wrap container": [
+        "cover container"
+    ],
+    "empty chicken": [
+        "empty chicken in tupperware"
+    ],
+    "shake box": [
+        "shake tupperware"
+    ],
+    "transition kitchen": [
+        "enter kitchen",
+        "enter kitchen."
+    ],
+    "take coffee maker": [
+        "take cafetiere",
+        "take coffee pot",
+        "pick up cafetiere top",
+        "take coffee machine",
+        "get moka pot",
+        "take grinder",
+        "take v60",
+        "get mocha pot",
+        "pick up cafetiere"
+    ],
+    "put bread": [
+        "put away bread",
+        "put down slice of bread",
+        "put slice of bread",
+        "place bread",
+        "put down bread",
+        "put rusks",
+        "putting sandwich bread",
+        "place bread on pan",
+        "put toast bread on counter"
+    ],
+    "close bread": [
+        "close toast bread",
+        "close bread",
+        "close"
+    ],
+    "turn bread": [
+        "turn loaf of bread",
+        "turn loaf of bread in pan",
+        "turn bread"
+    ],
+    "wash filter": [
+        "clean coffee filter",
+        "rinse filter",
+        "continue washing cafetiere strainer",
+        "wipe off filter",
+        "clean filter",
+        "rinse cafetiere strainer"
+    ],
+    "turn-off bread": [
+        "turn off of bread"
+    ],
+    "take bread": [
+        "take two slices from the toast bread",
+        "pick up breads",
+        "take bread",
+        "get bread",
+        "take rusks",
+        "take the bread",
+        "pick up croissant",
+        "pick up slice of bread",
+        "pick up bread",
+        "pick up rusks",
+        "take toast bread from toaster",
+        "get loaf of bread",
+        "take toast bread"
+    ],
+    "apply cheese": [
+        "spread cheese on bread",
+        "still spread cheese on bread"
+    ],
+    "put filter": [
+        "place filter",
+        "put cafetiere strainer on drying rack",
+        "put stud",
+        "put the other coffee filter back in the bag",
+        "position filter",
+        "put the filters back into the cupboard",
+        "put filters no take out the coffee from the cupboard"
+    ],
+    "put avocado": [
+        "place avocado on bread"
+    ],
+    "take avocado": [
+        "get avocado"
+    ],
+    "sort avocado": [
+        "arrange avocado"
+    ],
+    "open lid": [
+        "open curry lid",
+        "open lid of salt",
+        "open lid of tupperware",
+        "open kettle lid",
+        "open the lid of the bottle",
+        "open lid"
+    ],
+    "turn-on lid": [
+        "turn lid on"
+    ],
+    "press pepper": [
+        "press pepper"
+    ],
+    "throw lid": [
+        "throw away lid",
+        "throw away lids"
+    ],
+    "move knife": [
+        "move knife",
+        "move knives"
+    ],
+    "pour tomato": [
+        "pour tomatoes on avocado bread",
+        "pour tomato"
+    ],
+    "wash fridge": [
+        "clean upper part"
+    ],
+    "take coffee": [
+        "take coffee grounds",
+        "pick up coffee capsules",
+        "pick up capsule",
+        "pick up coffee",
+        "get coffee",
+        "take coffee from grinder",
+        "grab capsule",
+        "take coffee",
+        "take coffee pod"
+    ],
+    "unscrew lid": [
+        "unscrew lid"
+    ],
+    "unscrew coffee maker": [
+        "unscrew mocha pot"
+    ],
+    "scoop coffee": [
+        "spoon coffee in mocha pot",
+        "scoop coffee beans",
+        "scoop coffee"
+    ],
+    "turn-off lid": [
+        "turn lid off"
+    ],
+    "screw coffee maker": [
+        "screw in the mocha pot"
+    ],
+    "wash cupboard": [
+        "clean cupboard"
+    ],
+    "turn-on heat": [
+        "turn heat on",
+        "turn heat on low",
+        "turn on heat"
+    ],
+    "screw lid": [
+        "screw lid back"
+    ],
+    "wash coffee maker": [
+        "rinse cafetiere",
+        "still washing coffee pot",
+        "wash coffee pot",
+        "continue washing v60",
+        "wash nozzle",
+        "clean nozzle",
+        "wash v60",
+        "clean mocha",
+        "rinse v60"
+    ],
+    "take tomato": [
+        "take tomato and knife",
+        "taking one tomato",
+        "take three tomatoes",
+        "get tomato",
+        "take tomato",
+        "take tomatoes",
+        "get tomatoes"
+    ],
+    "throw tomato": [
+        "throw away bits",
+        "throw piece of tomato"
+    ],
+    "wash tomato": [
+        "wipe off",
+        "rinse tomatoes",
+        "wash tomato",
+        "wash tomatoes",
+        "washing the tomato in the sink",
+        "rinse tomato"
+    ],
+    "squeeze water": [
+        "squeeze excess water out of sponge",
+        "squeeze water",
+        "squeeze water excess"
+    ],
+    "choose avocado": [
+        "choose avocado"
+    ],
+    "take filter": [
+        "take a coffee filter",
+        "take coffee filter",
+        "pick up stud",
+        "take cafetiere strainer",
+        "take filters",
+        "get filter",
+        "take filter paper"
+    ],
+    "cut avocado": [
+        "cut avocado"
+    ],
+    "remove avocado": [
+        "take out pip part"
+    ],
+    "scoop avocado": [
+        "spoon avocado"
+    ],
+    "throw coffee": [
+        "throw capsule",
+        "throw coffee pod",
+        "throw away coffee"
+    ],
+    "cut tomato": [
+        "cut piece of tomato",
+        "slicing the tomato",
+        "cut tomato",
+        "keep chopping tomato",
+        "cut tomatoes",
+        "chop tomato",
+        "still cut tomatoes"
+    ],
+    "throw skin": [
+        "toss rind",
+        "throw banana peel away",
+        "to throw peelings in the trash",
+        "toss rinds",
+        "throw skin",
+        "throw away banana peel",
+        "throw peel away",
+        "throw away onion skin",
+        "throw carrot skin",
+        "throw potato peel",
+        "to throw peeling in the trash",
+        "throw away avocado skin",
+        "throw peelings"
+    ],
+    "open cheese": [
+        "open cheese"
+    ],
+    "check coffee": [
+        "check on coffee",
+        "check the coffee"
+    ],
+    "pat water": [
+        "tap excess water",
+        "tap water on"
+    ],
+    "season avocado": [
+        "salt an avocado"
+    ],
+    "close hob": [
+        "close fire",
+        "close hob"
+    ],
+    "move cup": [
+        "move mug"
+    ],
+    "sort chopping board": [
+        "arrange chopping board"
+    ],
+    "move coffee maker": [
+        "move coffee pot",
+        "move v60",
+        "move mocha pot"
+    ],
+    "throw rubbish": [
+        "throw away bits",
+        "throw away plastic bits",
+        "throw away bits of garbage",
+        "throw away trash",
+        "throw food leftovers",
+        "throw rubbish"
+    ],
+    "put liquid": [
+        "put dish liquid",
+        "put more liquid"
+    ],
+    "wash kitchen": [
+        "clean kitchen",
+        "wash kitchen",
+        "wipe off kitchen",
+        "rinse kitchen"
+    ],
+    "throw kitchen towel": [
+        "throw away kitchen towel"
+    ],
+    "spray washing liquid": [
+        "spray detergent",
+        "spray cleanser",
+        "spray product",
+        "spray alcohol",
+        "spray kitchen spray",
+        "spray degreaser"
+    ],
+    "insert avocado": [
+        "put avocado in plastic bag"
+    ],
+    "close washing machine": [
+        "close washing machine"
+    ],
+    "choose leaf": [
+        "choose mint leaves"
+    ],
+    "put mint": [
+        "place mint"
+    ],
+    "take lemon": [
+        "take lemon",
+        "get lemon"
+    ],
+    "put rubbish": [
+        "place back garbage"
+    ],
+    "wash leaf": [
+        "wash basil leaves",
+        "wash leaves"
+    ],
+    "cut lemon": [
+        "cut lemon slice",
+        "cut lemon",
+        "slice lemon"
+    ],
+    "squeeze lemon": [
+        "squeeze the lemon",
+        "squeeze lemon in mug",
+        "squeeze lemon"
+    ],
+    "wait water": [
+        "wait for water to boil"
+    ],
+    "throw water": [
+        "throw away water",
+        "throw out water"
+    ],
+    "remove leaf": [
+        "get leaves out"
+    ],
+    "take curry": [
+        "get curry"
+    ],
+    "put curry": [
+        "place curry in pot",
+        "place curry in pan",
+        "pace curry in pot"
+    ],
+    "mix curry": [
+        "mix the curry",
+        "mix curry with oil",
+        "mixing the curry"
+    ],
+    "move meat": [
+        "move around meat in pan",
+        "move around the meat in pan"
+    ],
+    "take tongs": [
+        "get the wooden device"
+    ],
+    "turn meat": [
+        "still turn meat in pan",
+        "turn meat",
+        "turn meat in pan"
+    ],
+    "sort meat": [
+        "arrange meat in pan"
+    ],
+    "throw leaf": [
+        "throw away leaves"
+    ],
+    "pour rice": [
+        "pour rice into measuring cup",
+        "pour cooked rice in pan",
+        "pour rice in pan"
+    ],
+    "put tap": [
+        "place tap",
+        "put tap water"
+    ],
+    "wash meat": [
+        "wash meat",
+        "still clean meat",
+        "clean meat"
+    ],
+    "throw bowl": [
+        "throw away bits"
+    ],
+    "insert jar": [
+        "place jar in cupboard"
+    ],
+    "screw pot": [
+        "and screw the pot"
+    ],
+    "squeeze curry": [
+        "squeeze curry out of plastic bag",
+        "squeeze curry",
+        "squeeze curry out",
+        "still squeeze curry out of plastic bag",
+        "still squeezing curry out of plastic bag",
+        "squeeze curry out of bag",
+        "squeeze curry in the bag"
+    ],
+    "break egg": [
+        "break egg in bowl",
+        "crack egg",
+        "break eggs"
+    ],
+    "throw egg shell": [
+        "throw away egg shells"
+    ],
+    "turn-off water": [
+        "shut off water",
+        "tap water off"
+    ],
+    "throw towel": [
+        "throw away towel"
+    ],
+    "squeeze pepper": [
+        "squeeze pepper"
+    ],
+    "put salt cellar": [
+        "place pepper shaker",
+        "place back pepper shaker"
+    ],
+    "squeeze bag": [
+        "squeeze plastic bag",
+        "still squeeze plastic bag"
+    ],
+    "pour curry": [
+        "pour curry in bag"
+    ],
+    "squeeze spoon": [
+        "use spoon to squeeze out"
+    ],
+    "insert curry": [
+        "put curry in pan",
+        "put into the curry"
+    ],
+    "insert sink": [
+        "put in sink",
+        "place in sink"
+    ],
+    "press curry": [
+        "press curry",
+        "pressing curry"
+    ],
+    "mix rice": [
+        "mix rice in pan",
+        "stirring rice",
+        "mix wash the rice",
+        "mix it with the rice"
+    ],
+    "eat rice": [
+        "taste rice"
+    ],
+    "remove water": [
+        "remove the water from the glass bowl",
+        "remove the water from the bean curd boxes",
+        "remove the water from the clothes",
+        "take access water out",
+        "remove the water"
+    ],
+    "wash scissors": [
+        "wash scissors",
+        "wipe off scissors"
+    ],
+    "unwrap bowl": [
+        "unwrap bowl"
+    ],
+    "insert tomato": [
+        "put tomatoes in pan",
+        "put tomatoes in fridge",
+        "put tomato in the salad bowl",
+        "placing tomatoes into the fridge",
+        "place tomatoes in salad bowl",
+        "put tomato in wrap"
+    ],
+    "stab meat": [
+        "fork the meat"
+    ],
+    "take water": [
+        "pick up water",
+        "get water"
+    ],
+    "remove seed": [
+        "get seeds out"
+    ],
+    "uncover lid": [
+        "lid off"
+    ],
+    "throw lemon": [
+        "throw away bits"
+    ],
+    "move lemon": [
+        "move lemon"
+    ],
+    "take egg": [
+        "take eggs",
+        "take egg",
+        "pick up eggs",
+        "get egg",
+        "get eggs"
+    ],
+    "choose egg": [
+        "choose eggs"
+    ],
+    "take garlic": [
+        "get garlic",
+        "take the garlic"
+    ],
+    "throw garlic": [
+        "throw away the garlic bits"
+    ],
+    "mix egg": [
+        "beat egg",
+        "mix egg in rice",
+        "whisk eggs",
+        "mix egg",
+        "beat eggs"
+    ],
+    "take wrap": [
+        "take wrap",
+        "get wrap",
+        "taking the tortillas and tomato into table",
+        "take elastic wrap",
+        "take pieces",
+        "take elastic"
+    ],
+    "peel garlic": [
+        "skin the garlic",
+        "skin garlic"
+    ],
+    "put garlic": [
+        "place garlic on chopping board"
+    ],
+    "cut garlic": [
+        "cut the garlic into small pieces",
+        "chop garlic",
+        "cut garlic"
+    ],
+    "press garlic": [
+        "press garlic"
+    ],
+    "open spoon": [
+        "open it"
+    ],
+    "insert garlic": [
+        "put the garlic into the pan",
+        "place garlic in pan"
+    ],
+    "mix garlic": [
+        "mix the garlic with oil",
+        "mix garlic in pan"
+    ],
+    "pour egg": [
+        "pour whisked egg"
+    ],
+    "cook egg": [
+        "fry egg",
+        "still fry egg"
+    ],
+    "insert corn": [
+        "put corn in pan"
+    ],
+    "insert pepper": [
+        "put bell pepper in pan",
+        "put pepper back in cupboard"
+    ],
+    "pour pepper": [
+        "pour pepper"
+    ],
+    "shake food": [
+        "still shake food in pan"
+    ],
+    "unwrap salad": [
+        "unwrap salad in bowl"
+    ],
+    "close wrap": [
+        "close wrap"
+    ],
+    "put fridge": [
+        "place fridge"
+    ],
+    "scoop meat": [
+        "spoon meat on plate"
+    ],
+    "take blender": [
+        "pick up blender",
+        "take mixer"
+    ],
+    "open blender": [
+        "open mixer"
+    ],
+    "open tablet": [
+        "open supplement"
+    ],
+    "insert tablet": [
+        "put supplement in mixer"
+    ],
+    "close tablet": [
+        "close supplement"
+    ],
+    "insert blender": [
+        "put mixer in drawer",
+        "put blender in cupboard"
+    ],
+    "close blender": [
+        "close mixer"
+    ],
+    "take tablet": [
+        "take supplement"
+    ],
+    "wash blueberry": [
+        "wash blueberries",
+        "rinse blueberries"
+    ],
+    "take spreads": [
+        "pick up honey",
+        "take honey"
+    ],
+    "pour spreads": [
+        "pour honey on blueberries"
+    ],
+    "take blueberry": [
+        "pick up berries"
+    ],
+    "pour oatmeal": [
+        "pour oats into plate",
+        "pour oatmeal into bowl"
+    ],
+    "insert spreads": [
+        "put peanut butter in cupboard",
+        "put some honey inside the pot",
+        "put honey in cabinet"
+    ],
+    "pour blueberry": [
+        "pour berries on plate"
+    ],
+    "insert blueberry": [
+        "placing blueberries pack and grapes into the fridge",
+        "put berries in refrigerator",
+        "opening blueberries pack"
+    ],
+    "put phone": [
+        "put the mobile phone under the cabinet",
+        "put phone down"
+    ],
+    "take apron": [
+        "take the apron"
+    ],
+    "wash water": [
+        "wash it",
+        "wash it and remove the water"
+    ],
+    "insert water": [
+        "put some water inside the pot",
+        "put some water in the pot",
+        "put water in measuring cup",
+        "put water in",
+        "put water in pan",
+        "put water in tupperware",
+        "put water in coffee pot",
+        "put some water into the pot and brush it",
+        "put water in water boiler",
+        "put some water into the cabbage",
+        "put some water into the pot",
+        "put some water into the pot and",
+        "put the water into the shrimp",
+        "put more water into the pot",
+        "put water in kettle"
+    ],
+    "brush pot": [
+        "brush the pot",
+        "brush the food pot",
+        "brush another pot"
+    ],
+    "cut cabbage": [
+        "make the cabbage into smaller pieces",
+        "make the cabbage into smaller piece"
+    ],
+    "insert ginger": [
+        "put ginger and onion into the second pot"
+    ],
+    "insert cabbage": [
+        "put the cabbage pieces in the first pot",
+        "put the cooked cabbage into the plate",
+        "put the cabbage in the boxes",
+        "put the cabbage fragment into the pot"
+    ],
+    "mix onion": [
+        "mix the onions with the ingredients",
+        "mix the onion and ginger and cut them into even smaller pieces",
+        "stir onion and potatoes in the pan",
+        "mix the onion"
+    ],
+    "mix cabbage": [
+        "mix the cabbage"
+    ],
+    "insert paste": [
+        "put the bean source into the pot"
+    ],
+    "mix shrimp": [
+        "stir the shrimp with the onion fragments"
+    ],
+    "insert tofu": [
+        "put tofu in the pan",
+        "put some bean curd into the pot",
+        "put the cooked bean curd into the glass bowl",
+        "put the slice of bean curd into the pot"
+    ],
+    "press tofu": [
+        "collapse the bean curd"
+    ],
+    "wash tofu": [
+        "wash the bean curd"
+    ],
+    "put cover": [
+        "set down cover",
+        "put the cover on the utensil shelf",
+        "put the cover on the top left pot",
+        "put the cover",
+        "put the cover on the table",
+        "put the cover back",
+        "put away plate cover",
+        "put the cover of the sink back",
+        "put the cover on top of the pot"
+    ],
+    "take cover": [
+        "take the plastic cover",
+        "get the cover"
+    ],
+    "take flour": [
+        "get some flour"
+    ],
+    "insert flour": [
+        "put the flour into the bowl"
+    ],
+    "put powder": [
+        "put the powder back"
+    ],
+    "mix powder": [
+        "mix the powder with the water"
+    ],
+    "take tap": [
+        "get some tap water"
+    ],
+    "insert jug": [
+        "put some tap water into the water filter",
+        "put cafetiere jug into cafetiere",
+        "put jug in cupboard",
+        "put jug in drying rack"
+    ],
+    "open cover": [
+        "open the cover of another bowl another pot",
+        "open cover",
+        "open the cover of the pot"
+    ],
+    "insert powder": [
+        "put powder and water inside the pot"
+    ],
+    "brush brush": [
+        "used to brush the brush the plastic box"
+    ],
+    "open pot": [
+        "open pots",
+        "open the pot"
+    ],
+    "wash chopstick": [
+        "wash the chopstick"
+    ],
+    "wear apron": [
+        "wearing the apron"
+    ],
+    "check pot": [
+        "check the pot",
+        "check another pot"
+    ],
+    "open tap": [
+        "open the tap water and wash the food spade and the pot"
+    ],
+    "wash tap": [
+        "wash tap",
+        "use tap water to wash the pot",
+        "wash it with the tap water"
+    ],
+    "wrap food": [
+        "use the cover to cover the food"
+    ],
+    "wash brush": [
+        "wash the brusher",
+        "use the brush to clean the food",
+        "washing the brush"
+    ],
+    "apply washing liquid": [
+        "squirt washing up liquid",
+        "add some cleaning liquid on the brusher"
+    ],
+    "wash cover": [
+        "rinse plate cover",
+        "clean the cover of the pot",
+        "wash dish cover"
+    ],
+    "close cover": [
+        "close the cover"
+    ],
+    "put brush": [
+        "put the brusher on one side",
+        "put pastry brush onto sink",
+        "put pastry brush down"
+    ],
+    "put shelf": [
+        "put the on utensil shelf",
+        "put it on shelf"
+    ],
+    "turn-on slow cooker": [
+        "switch on the electric cooker"
+    ],
+    "add jug": [
+        "add some more water into the water filter"
+    ],
+    "cut knife": [
+        "cut slice",
+        "use the knife to cut to remove the dirty skin of the cabbage",
+        "use knife to cut open the clothes of the cab"
+    ],
+    "remove cover": [
+        "remove the cover"
+    ],
+    "remove skin": [
+        "remove the skin of the cabbage",
+        "remove the peel from the garlic piece",
+        "remove peelings"
+    ],
+    "peel leaf": [
+        "peel off the leaves of the cabbage"
+    ],
+    "peel cabbage": [
+        "peel off the cabbage"
+    ],
+    "remove knife": [
+        "take out the knife",
+        "use the knife to remove some skin from the",
+        "remove slice"
+    ],
+    "wash cabbage": [
+        "wash the"
+    ],
+    "wash vegetable": [
+        "wash the vegetable"
+    ],
+    "gather cabbage": [
+        "collect the"
+    ],
+    "take shrimp": [
+        "get some shrimp"
+    ],
+    "throw rest": [
+        "throw the rest away"
+    ],
+    "wash shrimp": [
+        "wash the shrimp"
+    ],
+    "take leek": [
+        "pick up leek",
+        "get some leek",
+        "pick up leeks",
+        "pick up leek ends"
+    ],
+    "take spring onion": [
+        "get chinese spring onion"
+    ],
+    "wash onion": [
+        "wash the onion"
+    ],
+    "brush knife": [
+        "use the brush to brush the knife"
+    ],
+    "take ginger": [
+        "get some ginger"
+    ],
+    "wash ginger": [
+        "wash the ginger"
+    ],
+    "cut ginger": [
+        "cut the ginger into small pieces"
+    ],
+    "open tofu": [
+        "open the bean curd",
+        "open tofu"
+    ],
+    "pour pot": [
+        "pour pot into colander",
+        "pour out pot into sink",
+        "pour the pot"
+    ],
+    "cut tofu": [
+        "cut tofu",
+        "cut the bean curd into small boxes",
+        "cut the bean curd into small cubes"
+    ],
+    "wash handle": [
+        "cool down handle"
+    ],
+    "scrub pot": [
+        "scrub pot"
+    ],
+    "peel salmon": [
+        "peel salmon skin",
+        "peel salmon"
+    ],
+    "empty salmon": [
+        "empty salmon into bowl"
+    ],
+    "insert salmon": [
+        "put salmon skin in bin"
+    ],
+    "shake hand": [
+        "shake hands",
+        "shake off hands"
+    ],
+    "mix salmon": [
+        "stir salmon"
+    ],
+    "break salmon": [
+        "break up salmon"
+    ],
+    "mix vegetable": [
+        "stir vegetables into salmon"
+    ],
+    "drop salmon": [
+        "spill salmon"
+    ],
+    "remove pot": [
+        "take out pot"
+    ],
+    "peel fish": [
+        "peel fish skin",
+        "peel open fish"
+    ],
+    "peel package": [
+        "peel packet"
+    ],
+    "insert fish": [
+        "put fish skin in bin",
+        "put fish in bowl"
+    ],
+    "flip fish": [
+        "turn over fish"
+    ],
+    "break fish": [
+        "break up fish"
+    ],
+    "mix fish": [
+        "stir fish"
+    ],
+    "turn-off alarm": [
+        "turn off timer",
+        "turn off oven timer"
+    ],
+    "pat fish": [
+        "poke fish"
+    ],
+    "scrub colander": [
+        "scrub colander"
+    ],
+    "shake salmon": [
+        "shake off salmon"
+    ],
+    "remove salmon": [
+        "fish salmon out of pot"
+    ],
+    "move computer": [
+        "move mouse"
+    ],
+    "open bread": [
+        "open bread",
+        "open toast bread",
+        "open rusks",
+        "open sandwich bread"
+    ],
+    "open hummus": [
+        "open hummus"
+    ],
+    "remove package": [
+        "remove wrapper"
+    ],
+    "apply hummus": [
+        "apply more hummus",
+        "apply hummus"
+    ],
+    "close hummus": [
+        "close hummus"
+    ],
+    "put hummus": [
+        "put hummus on plate",
+        "put humus",
+        "put away hummus"
+    ],
+    "remove bread": [
+        "take out two toast bread slices",
+        "take out bread",
+        "take out slice of bread",
+        "take out slices or switch around the slices of bread"
+    ],
+    "set tv": [
+        "set music"
+    ],
+    "put leek": [
+        "put down leek",
+        "put down leeks"
+    ],
+    "take kale": [
+        "pick up kale"
+    ],
+    "put slicer": [
+        "put away slicer"
+    ],
+    "turn-on tv": [
+        "turn on stereo"
+    ],
+    "sort cover": [
+        "rearrange plate cover"
+    ],
+    "turn tv": [
+        "turn the volume"
+    ],
+    "remove wine": [
+        "take out wine"
+    ],
+    "pour glass": [
+        "pour glass of wine"
+    ],
+    "remove foil": [
+        "take out kitchen foil",
+        "take out aluminium foil"
+    ],
+    "drink glass": [
+        "drink other glass of wine",
+        "drink glass of wine"
+    ],
+    "insert bottle": [
+        "put bottle in recycling",
+        "put bottle in the fridge"
+    ],
+    "pull foil": [
+        "pull out kitchen foil"
+    ],
+    "open fishcakes": [
+        "open fishcakes"
+    ],
+    "put fishcakes": [
+        "put fishcakes on kitchen foil",
+        "put fish cake on counter"
+    ],
+    "adjust fishcakes": [
+        "adjust fishcakes"
+    ],
+    "pour fishcakes": [
+        "pour fishcakes onto foil"
+    ],
+    "put kale": [
+        "put down kale"
+    ],
+    "remove leek": [
+        "take out leeks"
+    ],
+    "transition sink": [
+        "walk to sink"
+    ],
+    "wash leek": [
+        "rinse leeks"
+    ],
+    "shake leek": [
+        "shake off leeks"
+    ],
+    "move kale": [
+        "move kale"
+    ],
+    "adjust leek": [
+        "adjust leeks"
+    ],
+    "cut leek": [
+        "chop leek",
+        "chop leeks",
+        "chop off leeks",
+        "chop"
+    ],
+    "throw leek": [
+        "throw away leek ends",
+        "throw away leeks"
+    ],
+    "take fishcakes": [
+        "pick up fish cakes"
+    ],
+    "drop fishcakes": [
+        "drop fish cake"
+    ],
+    "sort leek": [
+        "rearrange leeks"
+    ],
+    "pour kale": [
+        "pouring kale"
+    ],
+    "press kale": [
+        "push down kale"
+    ],
+    "shake bag": [
+        "shake off bag"
+    ],
+    "remove fishcakes": [
+        "take out fish cakes"
+    ],
+    "insert fishcakes": [
+        "push fish cake into bowl"
+    ],
+    "insert leek": [
+        "put leeks into bowl"
+    ],
+    "insert vegetable": [
+        "put vegetables into bowl"
+    ],
+    "scrape colander": [
+        "scrape out colander"
+    ],
+    "remove sauce": [
+        "take out jarred sauce",
+        "take out sauce",
+        "take out soy sauce"
+    ],
+    "remove oil": [
+        "remove oil",
+        "take out chilli oil"
+    ],
+    "take napkin": [
+        "taking napkin into table",
+        "pick up napkins",
+        "pick up napkin",
+        "pick up tissue"
+    ],
+    "remove milk": [
+        "taking out the milk",
+        "pick out milk"
+    ],
+    "look kitchen": [
+        "look around"
+    ],
+    "press glass": [
+        "push back glass"
+    ],
+    "divide plate": [
+        "separate pasta plates",
+        "separating pasta plates"
+    ],
+    "finish food": [
+        "stop"
+    ],
+    "move cucumber": [
+        "move cucumber"
+    ],
+    "take parsley": [
+        "take parsley"
+    ],
+    "wash parsley": [
+        "wash parsley"
+    ],
+    "cut parsley": [
+        "chop parsley",
+        "chopping parsley"
+    ],
+    "mix heat": [
+        "mixing"
+    ],
+    "cut cheese": [
+        "cut mozzarella into salad bowl",
+        "cut cheese in half",
+        "slice cheese",
+        "slice open cheese",
+        "chop cheese in half"
+    ],
+    "crush cheese": [
+        "grind cheese",
+        "grinding cheese"
+    ],
+    "fill water": [
+        "fill with water"
+    ],
+    "check plate": [
+        "count"
+    ],
+    "check kettle": [
+        "count"
+    ],
+    "insert pasta": [
+        "put spaghetti in pan",
+        "put in pasta",
+        "put pasta in the plate",
+        "put pasta in pot",
+        "put pasta into saucepan",
+        "put pasta in drawer",
+        "put pasta in cupboard"
+    ],
+    "mix spoon": [
+        "stir with spoon"
+    ],
+    "put parsley": [
+        "put back parsley"
+    ],
+    "add oregano": [
+        "now add oregano"
+    ],
+    "put oregano": [
+        "put back oregano",
+        "put oregano back"
+    ],
+    "wash oregano": [
+        "wash oregano"
+    ],
+    "add salt": [
+        "add salt to water"
+    ],
+    "season food": [
+        "salt food in frying pan",
+        "pepper food in frying pan"
+    ],
+    "mix fridge": [
+        "stir"
+    ],
+    "adjust extractor fan": [
+        "adjust fan"
+    ],
+    "peel banana": [
+        "peel banana"
+    ],
+    "pour drink": [
+        "pour smoothie in glass.",
+        "pour smoothie into glasses"
+    ],
+    "insert leaf": [
+        "put basil leaves into glass"
+    ],
+    "take basil": [
+        "take basil plant"
+    ],
+    "throw box": [
+        "throw away empty box"
+    ],
+    "wash tongs": [
+        "clean tongs"
+    ],
+    "insert tongs": [
+        "put tongs in drawer"
+    ],
+    "insert washing liquid": [
+        "put detergent in scourer",
+        "put detergent in the sink",
+        "put in detergent",
+        "put soap in hands",
+        "put soap in tupperware"
+    ],
+    "open fork": [
+        "open fork"
+    ],
+    "drop milk": [
+        "drop milk"
+    ],
+    "put food": [
+        "put food remains in garbage",
+        "put down paella",
+        "put food"
+    ],
+    "put egg": [
+        "put eggs",
+        "put down eggs",
+        "put egg to garbage",
+        "put eggs on paella"
+    ],
+    "open extractor fan": [
+        "open hood"
+    ],
+    "flip wrap": [
+        "flip tortilla"
+    ],
+    "put wrap": [
+        "put elastic wrap over salad bag",
+        "put tortilla on plate"
+    ],
+    "set oven": [
+        "set cooker"
+    ],
+    "put potato peeler": [
+        "put down potato peeler",
+        "put down potato peelers",
+        "put down peeler",
+        "put away peeler",
+        "put peeler",
+        "put down down potato peeler"
+    ],
+    "take asparagus": [
+        "take asparagus",
+        "pick up asparagus"
+    ],
+    "wash asparagus": [
+        "wash asparagus"
+    ],
+    "cut asparagus": [
+        "cut asparagus"
+    ],
+    "insert asparagus": [
+        "put asparagus in pan"
+    ],
+    "take utensil": [
+        "pick up skimmer",
+        "pick up utensil",
+        "pick up utensils"
+    ],
+    "remove pan": [
+        "remove pan",
+        "try to take out pan",
+        "remove the pan",
+        "remove content of pan",
+        "take out pan"
+    ],
+    "close pan": [
+        "close pan"
+    ],
+    "take tofu": [
+        "take tofu",
+        "pick up tofu"
+    ],
+    "wrap pan": [
+        "cover pan"
+    ],
+    "cut bread": [
+        "cut croissant"
+    ],
+    "flip bread": [
+        "flip croissants"
+    ],
+    "remove food": [
+        "remove content from package",
+        "remove content from pan",
+        "remove content from the pan"
+    ],
+    "open spice": [
+        "open spices"
+    ],
+    "insert spice": [
+        "put spices in pan"
+    ],
+    "take tea": [
+        "pick up tea",
+        "pick up tea bag",
+        "take tea"
+    ],
+    "remove tofu": [
+        "take out tofu from packaging"
+    ],
+    "put tea": [
+        "put down tea",
+        "put away tea"
+    ],
+    "mix tea": [
+        "stir tea",
+        "mix tea"
+    ],
+    "remove egg": [
+        "take out the egg"
+    ],
+    "remove crab stick": [
+        "take out the crab stick"
+    ],
+    "remove fish": [
+        "take out the fish"
+    ],
+    "unwrap crab stick": [
+        "unpack the crab stick"
+    ],
+    "wash food": [
+        "wash the food"
+    ],
+    "wash fish": [
+        "wash the fish"
+    ],
+    "put fish": [
+        "put the fish on the cutting board"
+    ],
+    "cut fish": [
+        "cut the fish"
+    ],
+    "increase heat": [
+        "turn up the heat"
+    ],
+    "cut crab stick": [
+        "cut the crab stick"
+    ],
+    "cut sausage": [
+        "cut the sausage"
+    ],
+    "unwrap vegetable": [
+        "unpack the vegetables"
+    ],
+    "insert food": [
+        "put food in microwave",
+        "put the food into the pan",
+        "put contents into bin"
+    ],
+    "remove vegetable": [
+        "take out the vegetables and put them on the cutting board",
+        "take out the vegetables and put it on the cutting board"
+    ],
+    "cut vegetable": [
+        "cut the vegetables"
+    ],
+    "remove chopping board": [
+        "take out the cutting board",
+        "remove slice"
+    ],
+    "mix chopstick": [
+        "stir with chopsticks"
+    ],
+    "turn-down heat": [
+        "turn down the heat"
+    ],
+    "remove bowl": [
+        "take out bowl",
+        "take out a bowl",
+        "remove slice"
+    ],
+    "cook water": [
+        "boil the water"
+    ],
+    "remove noodle": [
+        "take out the noodles"
+    ],
+    "put ladle": [
+        "put ladle",
+        "put down down ladle"
+    ],
+    "open top": [
+        "open counter",
+        "open the top"
+    ],
+    "adjust pot": [
+        "adjust the pot"
+    ],
+    "add sauce": [
+        "add sauce"
+    ],
+    "mix noodle": [
+        "stir noodles"
+    ],
+    "add corn": [
+        "add corns"
+    ],
+    "turn-off heater": [
+        "turn off heater"
+    ],
+    "move pot": [
+        "move the pot"
+    ],
+    "insert chopstick": [
+        "use chopstick to put stuff into another bowl"
+    ],
+    "insert coffee maker": [
+        "put coffee pot in coffee machine",
+        "put cafetiere strainer into cafetiere",
+        "put it in coffee machine",
+        "place in coffee machine",
+        "place coffee pot in sink"
+    ],
+    "insert filter": [
+        "put filters in cupboard",
+        "put coffee filters in cupboard",
+        "put filter in coffee machine",
+        "put filter in bin",
+        "put filter in v60",
+        "put v60 filter in bin",
+        "put filter paper in v60"
+    ],
+    "open coffee": [
+        "open coffee"
+    ],
+    "insert coffee": [
+        "put coffee into v60",
+        "put coffee beans into grinder",
+        "put coffee in cupboard",
+        "put coffee scoop in coffee grinder",
+        "put coffee into coffee filter",
+        "insert capsule",
+        "put coffee grounds in v60",
+        "put coffee in coffee machine",
+        "put coffee into grinder",
+        "put in coffee",
+        "put coffee in grinder"
+    ],
+    "close coffee maker": [
+        "close coffee machine",
+        "close coffee maker",
+        "close coffee machine drawer"
+    ],
+    "turn-on coffee maker": [
+        "turn grinder on",
+        "turn on coffee maker",
+        "turn on coffee machine",
+        "turn coffee maker on"
+    ],
+    "wrap coffee": [
+        "wrap up coffee"
+    ],
+    "remove spreads": [
+        "take out peanut butter"
+    ],
+    "divide coffee maker": [
+        "separate them"
+    ],
+    "insert toaster": [
+        "put slices in toaster",
+        "put back in toaster",
+        "put them in the toaster"
+    ],
+    "open coffee maker": [
+        "open coffee maker",
+        "open coffee machine"
+    ],
+    "remove filter": [
+        "take out coffee filters",
+        "take out coffee filter",
+        "remove filter",
+        "remove filter from box of filters"
+    ],
+    "throw filter": [
+        "throw out coffee filter",
+        "throw away coffee filter",
+        "throw filter in garbage"
+    ],
+    "finish toaster": [
+        "stop toaster"
+    ],
+    "remove coffee": [
+        "take off coffee",
+        "take out coffee",
+        "extract capsules from the bag"
+    ],
+    "remove toaster": [
+        "take slices out of toaster"
+    ],
+    "unscrew spreads": [
+        "unscrew peanut butter"
+    ],
+    "apply spreads": [
+        "spread peanut butter onto toast",
+        "spread honey on rusks"
+    ],
+    "put cap": [
+        "put the cap on the peanut butter",
+        "put cap back on the salt",
+        "put cap"
+    ],
+    "unscrew cap": [
+        "untwist cap of olive oil",
+        "unscrew the cap of sauce",
+        "untwist cap of vinegar",
+        "unscrew olive oil cap"
+    ],
+    "pour vinegar": [
+        "pour vinegar on salad"
+    ],
+    "close vinegar": [
+        "close vinegar"
+    ],
+    "remove box": [
+        "take out tupperware"
+    ],
+    "put top": [
+        "put top on top of cafetiere",
+        "put on counter",
+        "put down top"
+    ],
+    "take cucumber": [
+        "take cucumber"
+    ],
+    "take salad": [
+        "take salad",
+        "pick up salads"
+    ],
+    "put salad": [
+        "put salad and cucumber on counter",
+        "put down salad and ham",
+        "put over salad",
+        "put dressing over salad"
+    ],
+    "remove raisin": [
+        "take out raisins"
+    ],
+    "cut cucumber": [
+        "cut the end off the cucumber",
+        "cut the other end of the cucumber",
+        "still cutting cucumber",
+        "cut cucumber"
+    ],
+    "remove plastic wrap": [
+        "take plastic wrap out of cucumber",
+        "take plastic wrap off of cucumber",
+        "take off plastic wrap"
+    ],
+    "wash cucumber": [
+        "wash cucumber"
+    ],
+    "dry cucumber": [
+        "dry cucumber with towel",
+        "dry cucumber in towel"
+    ],
+    "eat cucumber": [
+        "eat cucumber"
+    ],
+    "remove oregano": [
+        "take out oregano"
+    ],
+    "insert oregano": [
+        "put oregano in cupboard",
+        "put oregano in salad"
+    ],
+    "remove cap": [
+        "take off the cap of salt"
+    ],
+    "throw napkin": [
+        "throw napkin",
+        "throw out tissue",
+        "throw tissue"
+    ],
+    "remove cup": [
+        "take out measuring cup"
+    ],
+    "remove rice": [
+        "take out rice"
+    ],
+    "remove scissors": [
+        "take out scissors"
+    ],
+    "remove meat": [
+        "take meat out of plastic bag",
+        "take out meat"
+    ],
+    "rip plastic wrap": [
+        "rip open plastic wrap"
+    ],
+    "remove pepper": [
+        "take out pepper",
+        "remove inside part of pepper"
+    ],
+    "take oregano": [
+        "take oregano",
+        "take some oregano"
+    ],
+    "apply spice": [
+        "spread the spices"
+    ],
+    "remove tomato": [
+        "take out tomatoes",
+        "taking out the tomatoes"
+    ],
+    "dry tomato": [
+        "dry tomatoes"
+    ],
+    "put tomato": [
+        "placing tomato on dish",
+        "put tomatoes away",
+        "put tomatoes on pan"
+    ],
+    "close coffee": [
+        "close coffee"
+    ],
+    "dry cup": [
+        "dry mug",
+        "continue drying mug",
+        "dry cup"
+    ],
+    "remove oatmeal": [
+        "take out oatmeal"
+    ],
+    "open oatmeal": [
+        "open oatmeal"
+    ],
+    "scoop oatmeal": [
+        "scoop out oatmeal with cup",
+        "scoop up oatmeal"
+    ],
+    "insert oatmeal": [
+        "put oatmeal into bowl",
+        "put oatmeal in bowl",
+        "put oatmeal in cupboard"
+    ],
+    "close oatmeal": [
+        "close oatmeal"
+    ],
+    "mix oatmeal": [
+        "keep stirring oatmeal",
+        "stir oatmeal"
+    ],
+    "screw bowl": [
+        "twist bowl and stir oatmeal"
+    ],
+    "turn-off coffee maker": [
+        "turn coffee grinder off",
+        "turn of coffee machine",
+        "turn off coffee machine",
+        "turn off coffee maker"
+    ],
+    "wrap pasta": [
+        "wrap it over pasta"
+    ],
+    "remove salt": [
+        "take out salt"
+    ],
+    "put jar": [
+        "place jar",
+        "put down down jar",
+        "put jar",
+        "pose jar",
+        "put down jar",
+        "put it on pasta sauce jar"
+    ],
+    "throw jar": [
+        "throw jar in garbage",
+        "throw away jar"
+    ],
+    "unscrew sauce": [
+        "unscrew"
+    ],
+    "divide filter": [
+        "separate a coffee filter"
+    ],
+    "insert bread": [
+        "put toast bread in toaster",
+        "put slice of bread in toaster",
+        "put bread in bowl"
+    ],
+    "wrap bread": [
+        "wrap up toast bread"
+    ],
+    "take salami": [
+        "take ham",
+        "take ham from ham packaging",
+        "take two slices",
+        "pick up ham"
+    ],
+    "put salami": [
+        "put ham on toast",
+        "put ham between bread slices",
+        "put ham on counter"
+    ],
+    "throw cucumber": [
+        "throw away the other end of the cucumber"
+    ],
+    "open light": [
+        "open light"
+    ],
+    "divide bread": [
+        "separate slices"
+    ],
+    "turn-on toaster": [
+        "turn on toaster",
+        "turn toaster on"
+    ],
+    "open salami": [
+        "open ham"
+    ],
+    "close salami": [
+        "close ham"
+    ],
+    "insert salami": [
+        "put ham and cheese back in fridge",
+        "put ham in fridge"
+    ],
+    "open hob": [
+        "open fire"
+    ],
+    "search ladle": [
+        "looking for ladle"
+    ],
+    "take ladle": [
+        "take ladle",
+        "grab ladle"
+    ],
+    "cook bacon": [
+        "fry bacon",
+        "fry bacon and egg",
+        "still fry bacon"
+    ],
+    "open egg": [
+        "open egg"
+    ],
+    "take bacon": [
+        "take bacon"
+    ],
+    "rip bacon": [
+        "tear down bacon"
+    ],
+    "put bacon": [
+        "put bacon"
+    ],
+    "insert bacon": [
+        "put bacon into pan"
+    ],
+    "take grater": [
+        "pick up grater and baking tray",
+        "pick up grater"
+    ],
+    "wash grater": [
+        "wipe grater with rag",
+        "rinse grater",
+        "wash grater"
+    ],
+    "put grater": [
+        "put grater on drying rack",
+        "put down grater",
+        "put grater"
+    ],
+    "sort bowl": [
+        "stack bowls",
+        "stacks bowls"
+    ],
+    "insert napkin": [
+        "put tissue in bin"
+    ],
+    "wrap package": [
+        "clip salad packaging"
+    ],
+    "transition chair": [
+        "sit on chair"
+    ],
+    "insert sandwich": [
+        "put sandwich in bowl"
+    ],
+    "remove cheese": [
+        "taking out the cheese and the sauce",
+        "take cheese out of packet",
+        "remove cheese from packet"
+    ],
+    "turn-on meat": [
+        "starting to remove the heart"
+    ],
+    "carry oil": [
+        "bringing the olive oil"
+    ],
+    "remove wrap": [
+        "take wraps out of package",
+        "taking some tortillas out"
+    ],
+    "break cheese": [
+        "breaking the cheese"
+    ],
+    "fill wrap": [
+        "stuffing the tortillas with cheese"
+    ],
+    "insert wrap": [
+        "put pieces in wrap",
+        "placing tortillas in microwave",
+        "put wrap in dish",
+        "put wraps in dish"
+    ],
+    "choose power": [
+        "selecting power level"
+    ],
+    "transition alarm": [
+        "entering cooking time"
+    ],
+    "remove grape": [
+        "taking grapes and blueberries out of fridge"
+    ],
+    "put blueberry": [
+        "placing some blueberries on glass"
+    ],
+    "close blueberry": [
+        "closing blueberries pack"
+    ],
+    "wash fruit": [
+        "rinsing fruit into tap"
+    ],
+    "wrap sauce": [
+        "covering sauce"
+    ],
+    "sort wrap": [
+        "arranging tortillas"
+    ],
+    "carry milk": [
+        "bringing milk and fruit into table"
+    ],
+    "break towel": [
+        "breaking a towel"
+    ],
+    "remove label": [
+        "removing a sticker",
+        "remove label from pepper"
+    ],
+    "wash peach": [
+        "rinse peach"
+    ],
+    "shake peach": [
+        "shake peach"
+    ],
+    "put peach": [
+        "put down down peach",
+        "put down down slice",
+        "put down slices",
+        "put down peach"
+    ],
+    "peel peach": [
+        "peel peach"
+    ],
+    "wash potato peeler": [
+        "rinse potato peeler",
+        "clean potato peeler",
+        "lather potato peeler",
+        "clean peeler",
+        "wash peeler"
+    ],
+    "take peach": [
+        "pick up peach",
+        "grab peach",
+        "take peach"
+    ],
+    "rip banana": [
+        "tear out banana",
+        "tear out banana from bunch"
+    ],
+    "put banana": [
+        "put down banana slice",
+        "put banana"
+    ],
+    "put fruit": [
+        "put fruits",
+        "put down fruit"
+    ],
+    "put basket": [
+        "put basket",
+        "put down basket"
+    ],
+    "cut peach": [
+        "cut slice",
+        "cut peach"
+    ],
+    "remove peach": [
+        "remove peach slice",
+        "remove slice"
+    ],
+    "throw peach": [
+        "throw away peach pit"
+    ],
+    "put drawer": [
+        "put down down slice"
+    ],
+    "put coffee": [
+        "put coffee back on top of microwave",
+        "put coffee",
+        "put capsule",
+        "place capsule",
+        "put down down capsule",
+        "dose coffee"
+    ],
+    "move coffee": [
+        "move capsule"
+    ],
+    "take biscuit": [
+        "take biscuits",
+        "take biscuit",
+        "pick up cookies",
+        "grab biscuits"
+    ],
+    "put biscuit": [
+        "put down down biscuits",
+        "put biscuits",
+        "put down biscuits",
+        "put down cookies",
+        "put biscuit"
+    ],
+    "take mat": [
+        "pick up place mats",
+        "take place mats",
+        "pick up place mat"
+    ],
+    "put mat": [
+        "put place mat on table",
+        "put away place mats",
+        "put down place mat"
+    ],
+    "open mat": [
+        "open place mat"
+    ],
+    "sort mat": [
+        "arrange place mat"
+    ],
+    "wrap knife": [
+        "wrap knife in paper"
+    ],
+    "take cream": [
+        "pick up cream with knife",
+        "pick up cream"
+    ],
+    "apply cream": [
+        "spread cream"
+    ],
+    "pull coffee": [
+        "pull out pod"
+    ],
+    "insert hob": [
+        "insert support"
+    ],
+    "close jar": [
+        "close jar"
+    ],
+    "mix coffee": [
+        "stir coffee"
+    ],
+    "sort plate": [
+        "arrange plate"
+    ],
+    "close cup": [
+        "close cup"
+    ],
+    "sort cup": [
+        "arrange cup"
+    ],
+    "shake jar": [
+        "shake jar"
+    ],
+    "move jar": [
+        "move jars"
+    ],
+    "shake bowl": [
+        "shake salad bowl"
+    ],
+    "fill cup": [
+        "fill mug",
+        "fill cup",
+        "fill cup of water",
+        "fill cup with water"
+    ],
+    "shake cup": [
+        "shake cup"
+    ],
+    "empty cup": [
+        "empty mug",
+        "empty cup",
+        "empty mug into sink"
+    ],
+    "take fruit": [
+        "grab fruit"
+    ],
+    "take basket": [
+        "grab basket"
+    ],
+    "wash cutlery": [
+        "rinse silverware",
+        "rinse cutlery",
+        "wash silverware",
+        "wash cutlery"
+    ],
+    "put utensil": [
+        "put down utensil"
+    ],
+    "take can": [
+        "pick up tin",
+        "take can"
+    ],
+    "remove rubbish": [
+        "remove the waste from the garlic",
+        "remove food residue",
+        "remove the waste from the table",
+        "remove residual food",
+        "remove rubbish from sink",
+        "remove the waste",
+        "remove waste inside the bowl",
+        "remove food leftovers"
+    ],
+    "put can": [
+        "put can",
+        "put tin",
+        "put down can"
+    ],
+    "wash hob": [
+        "clean stove top",
+        "clean hob",
+        "wash grill",
+        "wash",
+        "rinse grill",
+        "wash stove",
+        "clean"
+    ],
+    "move paper": [
+        "move cooking paper"
+    ],
+    "wash clothes": [
+        "clean hat",
+        "continue washing washing up bowl"
+    ],
+    "close tap": [
+        "close water tap"
+    ],
+    "shake mat": [
+        "shake place mat"
+    ],
+    "fold mat": [
+        "fold place mat"
+    ],
+    "empty coffee": [
+        "empty coffee pod",
+        "empty capsule"
+    ],
+    "shake coffee": [
+        "shake coffee pod",
+        "shake capsule"
+    ],
+    "put hob": [
+        "replace support",
+        "reposition burners",
+        "put down pan support",
+        "put away panini press",
+        "reposition grill"
+    ],
+    "wash coffee": [
+        "rinse coffee pod",
+        "rinse capsule"
+    ],
+    "close rubbish": [
+        "close garbage can"
+    ],
+    "crush bottle": [
+        "crush bottle"
+    ],
+    "close bottle": [
+        "close bottle",
+        "close oil bottle"
+    ],
+    "throw bottle": [
+        "throw bottle"
+    ],
+    "wash utensil": [
+        "rinse utensil",
+        "lather utensil"
+    ],
+    "gather food": [
+        "gather leftovers"
+    ],
+    "remove hob": [
+        "remove pan support",
+        "remove burners"
+    ],
+    "take hob": [
+        "take pan support"
+    ],
+    "set filter": [
+        "set filter in place"
+    ],
+    "empty filter": [
+        "empty filter"
+    ],
+    "turn tap": [
+        "turn tap to hot",
+        "turn tap"
+    ],
+    "put paper": [
+        "put down paper"
+    ],
+    "remove container": [
+        "remove container of water"
+    ],
+    "remove kettle": [
+        "remove kettle"
+    ],
+    "move kettle": [
+        "move kettle and container"
+    ],
+    "cut bowl": [
+        "cut slice"
+    ],
+    "throw seed": [
+        "throw away pit"
+    ],
+    "turn knife": [
+        "turn knife"
+    ],
+    "dry chopping board": [
+        "dry chopping board",
+        "dry cutting board"
+    ],
+    "insert stand": [
+        "put inside the rack stand",
+        "put into the stand"
+    ],
+    "take brush": [
+        "pick up pastry brush",
+        "take the brush"
+    ],
+    "cut hob": [
+        "cut the two pieces"
+    ],
+    "remove onion": [
+        "remove the outer layer from the onion"
+    ],
+    "take vegetable": [
+        "take the vegetables"
+    ],
+    "remove garlic": [
+        "remove the outer layer from the garlic"
+    ],
+    "insert dust pan": [
+        "put into the dustpan",
+        "put into dustpan"
+    ],
+    "insert cumin": [
+        "put the jeera into the oil"
+    ],
+    "check phone": [
+        "look in mobile",
+        "check phone"
+    ],
+    "search knife": [
+        "searching for something"
+    ],
+    "insert drying rack": [
+        "put inside the rack"
+    ],
+    "serve pan": [
+        "plate on the pan"
+    ],
+    "lift lid": [
+        "lift lid",
+        "raise lid"
+    ],
+    "mix cheese": [
+        "mix cheese and eggs"
+    ],
+    "take breadcrumb": [
+        "pick up bread crumbs"
+    ],
+    "insert breadcrumb": [
+        "put bread crumbs in the eggs"
+    ],
+    "mix mixture": [
+        "mix breadcrumbs eggs and cheese"
+    ],
+    "add breadcrumb": [
+        "add breadcrumbs to eggs"
+    ],
+    "mix breadcrumb": [
+        "mix breadcrumbs and eggs"
+    ],
+    "move potato": [
+        "move potatoes to the pan",
+        "move potato in pan"
+    ],
+    "move onion": [
+        "move onions and potatoes into pan",
+        "move onion and take knife"
+    ],
+    "take lettuce": [
+        "pick up lettuce"
+    ],
+    "put lettuce": [
+        "put lettuce"
+    ],
+    "turn bowl": [
+        "rotate salad bowl"
+    ],
+    "cut lettuce": [
+        "cut lettuce into colander"
+    ],
+    "insert lettuce": [
+        "put lettuce into bag",
+        "put lettuce in the salad bowl",
+        "put lettuce into fridge"
+    ],
+    "throw egg": [
+        "throw eggs box"
+    ],
+    "peel carrot": [
+        "peel carrot"
+    ],
+    "move omelette": [
+        "move omelette",
+        "move frittata around"
+    ],
+    "wash carrot": [
+        "rinse carrot"
+    ],
+    "wash lettuce": [
+        "rinse lettuce"
+    ],
+    "flip omelette": [
+        "flip omelette onto lid",
+        "flip omelette onto pan"
+    ],
+    "pour oregano": [
+        "pour oregano into salad bowl"
+    ],
+    "lift omelette": [
+        "lift omelette"
+    ],
+    "put omelette": [
+        "put omelette onto plate"
+    ],
+    "wash potato": [
+        "wash potato"
+    ],
+    "take lighter": [
+        "pick up lighter"
+    ],
+    "put lighter": [
+        "put lighter",
+        "put down lighter"
+    ],
+    "open pasta": [
+        "open pasta"
+    ],
+    "lift cover": [
+        "lift cover"
+    ],
+    "open cake": [
+        "open muffin"
+    ],
+    "put sugar": [
+        "put sugar"
+    ],
+    "turn cake": [
+        "turn muffin",
+        "rotate muffin"
+    ],
+    "close top": [
+        "close counter"
+    ],
+    "put napkin": [
+        "put napkin"
+    ],
+    "take cake": [
+        "pick up muffin"
+    ],
+    "put cake": [
+        "put muffin"
+    ],
+    "soak bag": [
+        "immerse bag in the water"
+    ],
+    "pour tea": [
+        "pour tea in the cup"
+    ],
+    "season tea": [
+        "sweeten tea"
+    ],
+    "turn-off heat": [
+        "turn off heat",
+        "turn off heat on oven"
+    ],
+    "serve plate": [
+        "serve"
+    ],
+    "season pasta": [
+        "season pasta"
+    ],
+    "open pancake": [
+        "open cake pan"
+    ],
+    "insert sugar": [
+        "put in sugar"
+    ],
+    "cut coffee": [
+        "make coffee"
+    ],
+    "wash pepper": [
+        "wash pepper"
+    ],
+    "cut pepper": [
+        "continue cutting pepper",
+        "chop pepper",
+        "continue chopping pepper",
+        "cut pepper"
+    ],
+    "throw pepper": [
+        "throw inside part of pepper"
+    ],
+    "move pepper": [
+        "move pieces of pepper",
+        "move piece of pepper"
+    ],
+    "take quorn": [
+        "take quorn"
+    ],
+    "put quorn": [
+        "put down quorn"
+    ],
+    "cut package": [
+        "cut package",
+        "slice cheese packet",
+        "cut quorn package"
+    ],
+    "adjust oven": [
+        "adjust oven",
+        "adjust cooker",
+        "adjust oven height of tray"
+    ],
+    "mix quorn": [
+        "stir quorn",
+        "continue stirring quorn"
+    ],
+    "turn quorn": [
+        "turn pieces of quorn"
+    ],
+    "empty spice": [
+        "empty mixed spices in pan"
+    ],
+    "empty vegetable": [
+        "empty vegetables in pan"
+    ],
+    "adjust alarm": [
+        "adjust time on microwave oven"
+    ],
+    "fold wrap": [
+        "fold wrap"
+    ],
+    "move wrap": [
+        "move wrap in dish"
+    ],
+    "gather mixture": [
+        "gather mixture in pan"
+    ],
+    "take mixture": [
+        "take mixture"
+    ],
+    "insert mixture": [
+        "put mixture in wrap"
+    ],
+    "eat wrap": [
+        "eat pieces"
+    ],
+    "hold wrap": [
+        "hold wraps"
+    ],
+    "insert plug": [
+        "insert plug into sink",
+        "put plug into sink"
+    ],
+    "flip glove": [
+        "flip gloves"
+    ],
+    "open kitchen door": [
+        "open kitchen door"
+    ],
+    "close kitchen door": [
+        "close kitchen door"
+    ],
+    "adjust glove": [
+        "adjust glove"
+    ],
+    "check cup": [
+        "inspect mug"
+    ],
+    "soak utensil": [
+        "submerge utensils"
+    ],
+    "soak spoon": [
+        "submerge spoon"
+    ],
+    "soak knife": [
+        "submerge knife"
+    ],
+    "soak fork": [
+        "submerge fork"
+    ],
+    "soak spatula": [
+        "submerge spatula"
+    ],
+    "soak potato peeler": [
+        "submerge peeler"
+    ],
+    "scrub plate": [
+        "scour plate"
+    ],
+    "soak plate": [
+        "submerge plate"
+    ],
+    "scrub bowl": [
+        "scour bowl"
+    ],
+    "soak bowl": [
+        "submerge bowl"
+    ],
+    "soak pan": [
+        "submerge pan"
+    ],
+    "soak chopping board": [
+        "submerge chopping board"
+    ],
+    "pull plug": [
+        "pull plug out of sink"
+    ],
+    "put plug": [
+        "put plug down"
+    ],
+    "adjust chopping board": [
+        "adjust drying chopping board"
+    ],
+    "check potato": [
+        "inspect potato"
+    ],
+    "put coffee maker": [
+        "put v60 on drying rack",
+        "put cafetiere on side",
+        "put v60",
+        "put cafetiere"
+    ],
+    "adjust potato": [
+        "adjust potato"
+    ],
+    "divide potato": [
+        "split potato"
+    ],
+    "gather potato": [
+        "collect potato from packet"
+    ],
+    "take jug": [
+        "take cafetiere jug",
+        "pick up jug"
+    ],
+    "take chicken": [
+        "pick up chicken"
+    ],
+    "adjust tray": [
+        "adjust tray"
+    ],
+    "insert grater": [
+        "put grater in cupboard"
+    ],
+    "rub salt": [
+        "rub salt on chicken",
+        "rub salt on hands"
+    ],
+    "wrap chicken": [
+        "seal chicken"
+    ],
+    "season chicken": [
+        "season chicken"
+    ],
+    "insert can": [
+        "put tin in cupboard"
+    ],
+    "stab potato": [
+        "stab potato"
+    ],
+    "brush oil": [
+        "brush oil on olive tray",
+        "brush olive oil onto baking tray",
+        "paste olive oil onto potatoes"
+    ],
+    "drop pan": [
+        "tip pan over sink"
+    ],
+    "shake salt": [
+        "shake salt onto potatoes"
+    ],
+    "bake potato": [
+        "scoop potatoes onto baking tray"
+    ],
+    "apply potato": [
+        "spread potatoes with spatula onto baking tray"
+    ],
+    "insert utensil": [
+        "put utensils in pot"
+    ],
+    "finish tv": [
+        "end the video"
+    ],
+    "adjust phone": [
+        "adjust phone"
+    ],
+    "empty sink": [
+        "empty drain"
+    ],
+    "wash glove": [
+        "rinse glove"
+    ],
+    "check sink": [
+        "ensure sink is sealed"
+    ],
+    "remove plug": [
+        "remove plug"
+    ],
+    "flip potato": [
+        "flip chips"
+    ],
+    "wash jug": [
+        "continue rinsing jug",
+        "wash jug",
+        "continue washing jug",
+        "rinse jug"
+    ],
+    "hang towel": [
+        "hang tea towel"
+    ],
+    "fold filter": [
+        "fold filter",
+        "fold filter paper"
+    ],
+    "open filter": [
+        "open filter",
+        "open filter paper"
+    ],
+    "fill jug": [
+        "fill jug",
+        "fill jug from kettle"
+    ],
+    "take juicer": [
+        "take lime squeezer"
+    ],
+    "put spreads": [
+        "put honey"
+    ],
+    "squeeze spreads": [
+        "squeeze honey onto cereal"
+    ],
+    "close spreads": [
+        "close honey"
+    ],
+    "squeeze package": [
+        "continue squashing soy milk carton",
+        "squash soy milk carton"
+    ],
+    "put juicer": [
+        "put lime squeezer"
+    ],
+    "scrub top": [
+        "scrub surface",
+        "continue scrubbing surface"
+    ],
+    "move cereal": [
+        "move cereal"
+    ],
+    "empty coffee maker": [
+        "empty cafetiere"
+    ],
+    "empty jug": [
+        "empty jug"
+    ],
+    "empty bottle": [
+        "empty bottle"
+    ],
+    "fill bottle": [
+        "fill water bottle",
+        "fill bottle"
+    ],
+    "remove bottle": [
+        "take bottle lid off"
+    ],
+    "empty bowl": [
+        "empty bowl",
+        "empty washing up bowl"
+    ],
+    "move sponge": [
+        "move sponge"
+    ],
+    "take hummus": [
+        "take humus"
+    ],
+    "eat carrot": [
+        "eat carrot"
+    ],
+    "adjust coffee maker": [
+        "adjust coffee grinder",
+        "change grind setting on grinder"
+    ],
+    "wash microwave": [
+        "wipe microwave",
+        "wipe the inside microwave",
+        "continue wiping microwave"
+    ],
+    "turn-on top": [
+        "turn top on"
+    ],
+    "hang glove": [
+        "hang oven gloves"
+    ],
+    "scoop food": [
+        "spoon food into pasta"
+    ],
+    "scoop pan": [
+        "spoon contents of pan onto plate"
+    ],
+    "remove colander": [
+        "remove colander from washing up bowl"
+    ],
+    "move food": [
+        "transfer food from box into bowl",
+        "continue transferring food from box into bowl"
+    ],
+    "move spoon": [
+        "move spoons"
+    ],
+    "remove jug": [
+        "take jug out cafetiere"
+    ],
+    "fill coffee maker": [
+        "fill cafetiere"
+    ],
+    "turn-on water": [
+        "tun water on"
+    ],
+    "insert sponge": [
+        "put sponge in washing up bowl"
+    ],
+    "move floor": [
+        "move"
+    ],
+    "finish coffee maker": [
+        "stop coffee grinder"
+    ],
+    "eat biscuit": [
+        "eat biscuit"
+    ],
+    "dry filter": [
+        "dry cafetiere strainer"
+    ],
+    "dry jug": [
+        "dry cafetiere jug"
+    ],
+    "close plug": [
+        "close plug"
+    ],
+    "turn-on coffee": [
+        "turn on coffee"
+    ],
+    "turn-off coffee": [
+        "turn off coffee"
+    ],
+    "put lemon": [
+        "put lemon"
+    ],
+    "remove coffee maker": [
+        "remove nozzle"
+    ],
+    "wash jar": [
+        "wash jar"
+    ],
+    "wash cork": [
+        "wash stopper"
+    ],
+    "put cork": [
+        "put down stopper"
+    ],
+    "turn pasta": [
+        "turn pasta"
+    ],
+    "cook pasta": [
+        "boil pasta",
+        "cook pasta"
+    ],
+    "mix mushroom": [
+        "mix mushrooms",
+        "stir mushrooms"
+    ],
+    "put sheets": [
+        "put sheet"
+    ],
+    "pour mushroom": [
+        "pour mushrooms"
+    ],
+    "sprinkle basil": [
+        "sprinkle basil"
+    ],
+    "turn can": [
+        "turn tin"
+    ],
+    "close toaster": [
+        "close toaster"
+    ],
+    "season tuna": [
+        "season tuna"
+    ],
+    "throw can": [
+        "throw away can"
+    ],
+    "take tuna": [
+        "pick up tuna"
+    ],
+    "cut tuna": [
+        "cut can lid"
+    ],
+    "put tuna": [
+        "put tuna on plate"
+    ],
+    "wash can": [
+        "rinse tin"
+    ],
+    "wash cap": [
+        "rinse cap",
+        "wash cap"
+    ],
+    "dry sink": [
+        "dry sink"
+    ],
+    "wash floor": [
+        "wash floor tiles"
+    ],
+    "dry kitchen": [
+        "dry kitchen"
+    ],
+    "dry hob": [
+        "dry grill",
+        "dry burners"
+    ]
+}

@@ -1,0 +1,14 @@
+accelerate launch zeroshot.py \
+    --model large \
+    --dataset ek100 \
+    --subset test \
+    --checkpoint lavila_openai_timesformer_large.4 \
+    --batch_size 32 \
+    --num_crops 1 \
+    --num_clips 1 \
+    --num_workers 3 \
+    --clip_length 4 \
+    --clip_stride 1 \
+    --topk 50 \
+    --description narrations_test \
+    --prediction prediction_v4

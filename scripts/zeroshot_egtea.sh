@@ -1,0 +1,13 @@
+accelerate launch zeroshot.py \
+    --model base \
+    --dataset egtea \
+    --subset train \
+    --checkpoint lavila_openai_timesformer_base.16 \
+    --batch_size 1 \
+    --num_crops 3 \
+    --num_clips 10 \
+    --num_workers 3 \
+    --clip_length 16 \
+    --clip_stride 2 \
+    --topk 50 \
+    --prediction prediction_v10
