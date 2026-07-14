@@ -1,4 +1,4 @@
-# Ego2Vec: Extract Egocentric Video Embeddings
+# Ego2Embedding: Extract Egocentric Video Embeddings
 
 *v1.0.0 新变化：初次发布项目源代码。*
 
